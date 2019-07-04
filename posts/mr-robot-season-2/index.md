@@ -1,0 +1,174 @@
+---
+title: "Mr. Robot: Season 2"
+date: 2018-05-21
+draft: false
+tags: [English]
+featured_image: mr_robot.png
+summary: This season brought us a more twisted plot, perfectly directed and filmed. We meet new characters, deal with a bunch of story lines.
+---
+
+This season brought us a more twisted plot, perfectly directed and filmed. We meet new characters, deal with a bunch of story lines. However, there are not so many words I’d like to mention, but.
+
+#### Briefly
+
+- **to escalate** = to increase rapidly, to speed up
+- **a lesion** = an injury
+- **a hemorrhaging** = an escape of blood from a blood vessel, especially when profuse
+- **a concussion** = a temporary unconsciousness caused by a blow to the head
+- **a stitch** = a joint
+- **to take a spill** = to have a fall
+- **a regimen** = a prescribed course of medical treatment
+- **dire** = terrible, extremely serious
+- to leave things on the best of terms
+- **to furlough** = to grant leave of absence to
+- **sane** = !insane
+- **to rat someone out** = to inform on someone
+- **a tumor** = a swelling of a part of the body, generally without inflammation, caused by an abnormal growth of tissue, whether benign or malignant
+- **to excise** = to cut out
+- **an errand** = a short journey undertaken in order to deliver or collect something, often on someone else’s behalf
+- **to rile someone up** = to get someone excited and angry
+- **to sanction** = to give official permission or approval
+- **to pony up** = to pay the amount of money that is owed or due for something (usually something excessively or unreasonably expensive)
+- **to hoard** = to save up
+- **to grind to a halt** = to stuck
+- **a bailout** = an act of giving financial assistance to a failing business or economy to save it from collapse
+- **a con** = an instance of deceiving or tricking someone
+- **to resign** = to voluntarily leave a job or other position
+- **loquacious** = talkative
+- **aghast** = horrified, shocked
+- **a patsy** = a person who is easily taken advantage of, especially by being cheated or blamed for something
+- **a dwarf** = a gnome
+- **a sanctuary** = a shelter
+- **midget** = extremely or unusually small
+- suffice to say
+- **to stab** = to thrust a knife or other pointed weapon into someone to wound or kill
+- **to slit** = to slash, make a long, narrow cut
+- **on the nose** = precisely
+- to be liquored up
+- a bar stool
+- **dormant** = inactive, idle
+- **a commotion** = a state of confused and noisy disturbance
+- **to catch some Zs** = to sleep
+- cursed
+- **a clink** = a jail
+- a nexus
+- superstitious
+- **disgruntled** = dissatisfied
+- **to burrow** = to make a hole or tunnel
+- **a condolence** = an expression of sympathy, especially on the occasion of a death
+- **a retribution** = a punishment that is considered to be morally right and fully deserved
+- **immaculate** = perfect
+- **enthralling** = captivating, thrilling, breathtaking
+- **a siege** = a blockage
+- **a dam** = a barrier constructed to hold back water and raise its level
+- **to punch** = to strike with the fist
+- to roam free
+- **a one-off** = something that happens or that is made or done only once
+- **a worship** = an act of religious devotion usually directed towards a deity
+- a scapegoat
+- **to buddy up** = to become friends
+- **a white-collar crime** = a financially motivated, nonviolent crime committed by business and government professionals
+- **a grief** = a deep sorrow, especially that caused by someone’s death
+- out loud
+- **doable** = within one’s powers, workable
+- **perpetual** = eternal, endless
+- **an adversary** = an opponent
+- **a footing** = the basis on which something is established or operates
+- **grody** = dirty, disgusting
+- **to debunk** = to disprove, expose the falseness or hollowness of (a myth, idea, or belief)
+- **a notion** = an idea, belief, opinion
+- **a meritocracy** = a social system, society, or organization in which people have power because of their abilities, not because of their money or social position
+- **almighty** = having complete power
+- **a flipside (flip side)** = another aspect or version of something, especially its reverse or its unwanted concomitant
+- **brazen** = obvious
+- **to burden** = to load, oppress
+- **a turncoat** = a betrayer
+- **a wart** = a small, hard growth on the skin, caused by a virus
+- **a swing** = a range, amplitude
+- **a roster** = a list
+- **to snoop around** = to look around in a place, trying to find out something secret
+- **to envision** = to imagine
+- **a stalemate** = a position counting as a draw, in which a player is not in check but cannot move except into check
+- **an impasse** = a stalemate
+- **a slight** = a disrespect, neglect
+- **a discretion** = a carefulness, caution, care
+- **to close in on somebody** = to come or move nearer or closer to someone or something
+- **a femtocell** = a small, low-power cellular base station, typically designed for use in a home or small business (also called AP)
+- **infallible** = unfailing, flawless, secure, unmistakable
+- **scrawny** = skinny, thin
+- **fierce** = savage, cruel, furious
+- **lax** = weak
+- **to degauss** = to demagnetize
+- **malevolent** = malicious, hostile, evil-minded
+- to part ways (on the best of terms)
+- **to be off one’s rocker** = to be mad
+- **uncanny** = strange or mysterious, especially in an unsettling way
+- one of a kind
+- **a mortality** = a state of being subjected to death
+- **utterly** = completely, totally, absolutely
+- **a contradiction** = a collision, conflict
+- **to strive** = make great efforts to achieve or obtain something
+- **a desolation** = a state of complete emptiness or destruction
+- **subversive** = harmful
+- **a turmoil** = a state of great disturbance, confusion, or uncertainty
+- **wacky** = crazy, nuts
+- **a contemplation** = the action of looking thoughtfully at something for a long time
+- **sinister** = threatening, evil
+- **a hunch** = a feeling, guess, suspicion
+- **to string someone along** = to falsely encourage someone to believe there is hope of a good result
+- **to pipe down** = to stop talking, making noise
+- **to hit the trail** = to set out on a journey, to leave, escape
+- **a/to slug** = a heavy blow especially with the fist
+- **a remedy** = something that cures or relieves a disease or bodily disorder, a healing medicine, application, or treatment
+- **frail** = having delicate health, weak
+- **to cross one’s mind** = to be thought of by one, to occur to someone
+- **to slaughter** = to kill animals for food
+- **to drown someone out** = to be so loud that someone or something cannot be heard
+- **a traitor** = a person who betrays someone or something, such as a friend, cause, or principle
+- whatever it takes
+- **to ride shotgun** = to sit in the passenger’s sit
+- **to get bent out of shape** = to take offense, to become angry, agitated, or upset
+- **a contingency** = a future event or circumstance that is possible but cannot be predicted with certainty
+- **a courtesy** = a showing of politeness in one’s attitude and behavior towards others
+- **contagious** = infectious
+- **out of the blue** = unexpectedly
+- **to squander** = to spend extravagantly, thoughtlessly, or wastefully
+- **a lateral move** = a move either within your current company or to a new organization with similar title, pay, and responsibility
+- **discreet** = careful
+- **a contamination** = a pollution
+- **to adjourn** = to break off a meeting with a view to resume it later
+- **to cloak** = to mask, hide
+- **harsh** = cruel, strict
+- **hit-or-miss** = as likely to be bad as to be good, esp. because of not being planned or organized well
+- **proverbial** = generally known
+- **to get down to brass tacks** = to deal with the important details
+- **a peril** = a risk
+- **to bow down to someone/something** = to show weakness by agreeing to the demands or following the orders of someone/something
+- to be stone-cold
+- **a larceny** = a theft, stealing, robbery
+- **a plaintiff** = a person who brings a case against another in a court of law
+- **to chow** = to eat
+- **to be AWOL** = to be Absent Without Official Leave
+- **a predecessor** = a person who held a job or office before the current holder
+- **veiled** = masked
+- **to be in a bid to something** = to be in an attempt to something/doing something
+- **benevolent** = kind, well-meaning and kindly
+- **a mercenary** = a professional soldier hired to serve in a foreign army
+- **decorum** = behavior in keeping with good taste and propriety
+- **to cease** = to stop
+- **a brownout** = a reduction in or restriction on the availability of electrical power in a particular area
+- **a corpse** = a dead body
+- **to abstain** = to formally decline to vote either for or against a proposal or motion
+- **to put out a BOLO** = to make someone Be On the Lookout
+- **a precinct** = a district of a city or town as defined for police purposes
+- **exigent** = urgent
+- **unpalatable** = unpleasant
+- **a grudge** = an envy, jealousy
+- **influential** = powerful
+- **to portray** = to represent
+- **discreet** = careful
+- **notorious** = infamous, scandalous, well-known, famous, famed, legendary
+- **gory** = bloody
+- **to be in cahoots** = to work together in secret
+- **to scurry** = to bustle
+- **to torment** = to cause experiencing severe mental or physical suffering
