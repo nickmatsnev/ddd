@@ -2,10 +2,10 @@
 title: Binary Representation of a Number Without Leading Zeros
 date: 2018-12-27
 languages: [C#]
-scripts: [precode_selector.js]
+scripts: [precode_selector.js, relative_date.js]
 description: We need to output number binary representation without leading zeros.
 ---
-
+ 
 ## Task
 
 We need to output `number` binary representation without leading zeros.

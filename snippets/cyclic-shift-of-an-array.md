@@ -2,7 +2,7 @@
 title: Cyclic Shift of an Array
 date: 2018-12-27
 languages: [C#]
-scripts: [precode_selector.js]
+scripts: [precode_selector.js, relative_date.js]
 description: Write a function that cyclically shifts a given array of k elements to the right.
 ---
 

@@ -5,6 +5,7 @@ lastmod: 2019-07-05
 tags: [Learn English]
 featured_image: subtleart_cover.png
 summary: I have read this bestseller from Mark Manson, and, apart from new points of view, there are a lot of new words worth learning.
+scripts: [relative_date.js]
 ---
 
 I have read this bestseller from Mark Manson, and, apart from new points of view, there are a lot of new words worth learning.

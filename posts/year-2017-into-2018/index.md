@@ -5,6 +5,7 @@ lastmod: 2019-07-05
 tags: [Life]
 featured_image: santa_claus.png
 summary: This is the first post summarizing what I felt I accomplished throughout the year and some of my goals for the year to come. 
+scripts: [relative_date.js]
 ---
 
 This is the first post summarizing what I felt I accomplished throughout the year and some of my goals for the year to come. It’ll help me gradually follow the progress chain.

@@ -5,6 +5,7 @@ lastmod: 2019-07-05
 tags: [Learn English]
 featured_image: mr_robot_folder.png
 summary: I am into learning English and, thanks to modern technologies, we have a lot of ways to do it. One of them is to watch films and serials, where the actors’ mother tongue is English.
+scripts: [relative_date.js]
 ---
 
 I am into learning English and, thanks to modern technologies, we have a lot of ways to do it. One of them is to watch films and serials, where the actors’ mother tongue is English. In my opinion, it is a great way to pick up the necessary expressions and phrasal constructions that you can’t find in textbooks.

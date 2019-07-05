@@ -5,7 +5,7 @@ lastmod: 2019-07-05
 tags: [Life]
 featured_image: nyc_vector.png 
 summary: I’ve been to New York this summer, and by this post is to share all my notes and some of my photos of this famous city.
-scripts: [medium-zoom.min.js]
+scripts: [medium-zoom.min.js, relative_date.js]
 ---
 
 I’ve been to New York this summer, and by this post is to share all my notes and some of my photos of this famous city.

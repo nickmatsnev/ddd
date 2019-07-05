@@ -4,6 +4,7 @@ date: 2019-06-26
 tags: [News]
 featured_image: logo-min1.png
 summary: This update addresses a few big changes and several minor improvements.
+scripts: [relative_date.js]
 ---
 
 ## Update 2.7.3

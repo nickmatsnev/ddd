@@ -2,7 +2,7 @@
 title: Reverse a Positive Number
 date: 2019-05-04
 languages: [Python]
-scripts: [precode_selector.js]
+scripts: [precode_selector.js, relative_date.js]
 description: This short snippet will help you reverse any number you are given.
 ---
 
