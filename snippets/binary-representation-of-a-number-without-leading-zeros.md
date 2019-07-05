@@ -1,6 +1,6 @@
 ---
 title: Binary Representation of a Number Without Leading Zeros
-modified: 2018-12-27
+date: 2018-12-27
 language: C#
 scripts: [precode_selector.js]
 description: We need to output number binary representation without leading zeros.

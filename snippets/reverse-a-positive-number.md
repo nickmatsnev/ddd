@@ -1,6 +1,6 @@
 ---
 title: Reverse a Positive Number
-modified: 2019-02-18 
+date: 2019-02-18 
 language: C#
 scripts: [precode_selector.js]
 description: Write a function that receives the number x and prints it, “unfolding” its digits in the reverse order.

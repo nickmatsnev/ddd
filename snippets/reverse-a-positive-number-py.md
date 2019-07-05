@@ -1,6 +1,6 @@
 ---
 title: Reverse a Positive Number
-modified: 2019-05-04
+date: 2019-05-04
 language: Python
 scripts: [precode_selector.js]
 description: This short snippet will help you reverse any number you are given.

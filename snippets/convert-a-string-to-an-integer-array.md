@@ -1,6 +1,6 @@
 ---
 title: Convert a String to an Integer Array
-modified: 2018-12-27
+date: 2018-12-27
 language: C#
 scripts: [precode_selector.js]
 description: Parse the string with numbers divided by spaces into an integer array.

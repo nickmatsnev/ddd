@@ -1,6 +1,6 @@
 ---
 title: Cyclic Shift of Binary Numbers
-modified: 2019-01-19
+date: 2019-01-19
 language: C#
 scripts: [precode_selector.js]
 description: We need to output the binary representation of the final number after cyclic shifting the number by shiftOffset places to the right.
