@@ -2,7 +2,7 @@
 title: Kaplan Vocabulary Week 1
 date: 2018-08-05
 lastmod: 2019-07-05
-tags: [English]
+tags: [Learn English]
 featured_image: kaplan_logo.png
 summary: Week at Kaplan International NYC has successfully passed and I’d like to share some words and expressions I’ve come across.
 ---

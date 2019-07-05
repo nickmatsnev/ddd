@@ -2,7 +2,7 @@
 title: The Subtle Art of Not Giving a Fuck
 date: 2018-09-14
 lastmod: 2019-07-05
-tags: [English]
+tags: [Learn English]
 featured_image: subtleart_cover.png
 summary: I have read this bestseller from Mark Manson, and, apart from new points of view, there are a lot of new words worth learning.
 ---
