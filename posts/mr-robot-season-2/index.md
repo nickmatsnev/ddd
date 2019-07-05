@@ -1,15 +1,15 @@
 ---
 title: "Mr. Robot: Season 2"
 date: 2018-05-21
-draft: false
+updated: 2019-07-05
 tags: [English]
 featured_image: mr_robot.png
-summary: This season brought us a more twisted plot, perfectly directed and filmed. We meet new characters, deal with a bunch of story lines.
+summary: This season brought us a more twisted plot, perfectly directed and filmed. We meet new characters, deal with a bunch of storylines.
 ---
 
-This season brought us a more twisted plot, perfectly directed and filmed. We meet new characters, deal with a bunch of story lines. However, there are not so many words I’d like to mention, but.
+This season brought us a more twisted plot, perfectly directed and filmed. We meet new characters, deal with a bunch of storylines. However, there are not so many words I’d like to mention, but.
 
-#### Briefly
+## Briefly
 
 - **to escalate** = to increase rapidly, to speed up
 - **a lesion** = an injury
@@ -56,7 +56,7 @@ This season brought us a more twisted plot, perfectly directed and filmed. We me
 - **disgruntled** = dissatisfied
 - **to burrow** = to make a hole or tunnel
 - **a condolence** = an expression of sympathy, especially on the occasion of a death
-- **a retribution** = a punishment that is considered to be morally right and fully deserved
+- **retribution** = a punishment that is considered to be morally right and fully deserved
 - **immaculate** = perfect
 - **enthralling** = captivating, thrilling, breathtaking
 - **a siege** = a blockage
@@ -68,7 +68,7 @@ This season brought us a more twisted plot, perfectly directed and filmed. We me
 - a scapegoat
 - **to buddy up** = to become friends
 - **a white-collar crime** = a financially motivated, nonviolent crime committed by business and government professionals
-- **a grief** = a deep sorrow, especially that caused by someone’s death
+- **grief** = a deep sorrow, especially that caused by someone’s death
 - out loud
 - **doable** = within one’s powers, workable
 - **perpetual** = eternal, endless
@@ -104,7 +104,7 @@ This season brought us a more twisted plot, perfectly directed and filmed. We me
 - **to be off one’s rocker** = to be mad
 - **uncanny** = strange or mysterious, especially in an unsettling way
 - one of a kind
-- **a mortality** = a state of being subjected to death
+- **mortality** = a state of being subjected to death
 - **utterly** = completely, totally, absolutely
 - **a contradiction** = a collision, conflict
 - **to strive** = make great efforts to achieve or obtain something
@@ -115,7 +115,7 @@ This season brought us a more twisted plot, perfectly directed and filmed. We me
 - **a contemplation** = the action of looking thoughtfully at something for a long time
 - **sinister** = threatening, evil
 - **a hunch** = a feeling, guess, suspicion
-- **to string someone along** = to falsely encourage someone to believe there is hope of a good result
+- **to string someone along** = to falsely encourage someone to believe there is a hope of a good result
 - **to pipe down** = to stop talking, making noise
 - **to hit the trail** = to set out on a journey, to leave, escape
 - **a/to slug** = a heavy blow especially with the fist
@@ -133,7 +133,7 @@ This season brought us a more twisted plot, perfectly directed and filmed. We me
 - **contagious** = infectious
 - **out of the blue** = unexpectedly
 - **to squander** = to spend extravagantly, thoughtlessly, or wastefully
-- **a lateral move** = a move either within your current company or to a new organization with similar title, pay, and responsibility
+- **a lateral move** = a move either within your current company or to a new organization with a similar title, pay, and responsibility
 - **discreet** = careful
 - **a contamination** = a pollution
 - **to adjourn** = to break off a meeting with a view to resume it later
@@ -145,7 +145,7 @@ This season brought us a more twisted plot, perfectly directed and filmed. We me
 - **a peril** = a risk
 - **to bow down to someone/something** = to show weakness by agreeing to the demands or following the orders of someone/something
 - to be stone-cold
-- **a larceny** = a theft, stealing, robbery
+- **larceny** = a theft, stealing, robbery
 - **a plaintiff** = a person who brings a case against another in a court of law
 - **to chow** = to eat
 - **to be AWOL** = to be Absent Without Official Leave
@@ -163,7 +163,7 @@ This season brought us a more twisted plot, perfectly directed and filmed. We me
 - **a precinct** = a district of a city or town as defined for police purposes
 - **exigent** = urgent
 - **unpalatable** = unpleasant
-- **a grudge** = an envy, jealousy
+- **a grudge** = envy, jealousy
 - **influential** = powerful
 - **to portray** = to represent
 - **discreet** = careful

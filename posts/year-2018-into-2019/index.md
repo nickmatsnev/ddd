@@ -1,7 +1,7 @@
 ---
 title: "Year 2018 into 2019"
 date: 2018-12-31
-draft: false
+updated: 2019-07-05
 tags: [Life]
 featured_image: fireworks.png
 summary: 2018 is at its end, and now I want to list all the important things that have happened during the past year.
@@ -88,7 +88,7 @@ Tools page shows all the tools I’ve built.
 - Building Ethereum projects using web3.js and **Solidity**.
 - Creating native Android applications using **Java**.
 - Writing different programs using **Python**.
-- Making any template work on top of the **WordPress**.
+- Making any template work on top of **WordPress**.
 - Optimizing WordPress and its content.
 
 ## Miscellaneous

@@ -1,22 +1,23 @@
 ---
 title: Hello, World!
 date: 2017-11-27
+updated: 2019-07-05
 tags: [News]
 featured_image: rocket_icon.png
-summary: This post is an initial point from where this website begins. I have completely reinvented my personal website.
-scripts: [medium-zoom.js]
+summary: This post is the initial point from where this website begins. I have completely reinvented my personal website.
+scripts: [medium-zoom.min.js]
 ---
 
-This post is an initial point from where this website begins. I have completely reinvented my personal website. The previous one wasn’t that ideal, so I made up my mind to launch a new one. I have fixed everything seemed to be complicated or useless and added new features.
+This post is the initial point from where this website begins. I have completely reinvented my personal website. The previous one wasn’t ideal, so I made up my mind to relaunch it with a new design. I have fixed everything I thought was complicated or useless.
 
-<img src="kottsovcom_performance_check.png" class="zoom-in">
+{{< image src="kottsovcom_performance_check.png" class="zoom-in" >}}
 
 ## Changelog
 
 - Completely new design optimized for both smartphones and PCs.
-- New domain name.
-- Better hosting with ability to switch between locations.
-- Website loads **3 times faster** due to inner optimizations.
+- Moved to the new domain name.
+- Better hosting with the ability to switch between locations.
+- Website loads **3 times faster** due to backend optimizations.
 - Almost everything is now cached and compressed.
 - Improved SEO and Security.
 - All pages were completely rewritten.

@@ -1,7 +1,7 @@
 ---
 title: The Subtle Art of Not Giving a Fuck
 date: 2018-09-14
-draft: false
+updated: 2019-07-05
 tags: [English]
 featured_image: subtleart_cover.png
 summary: I have read this bestseller from Mark Manson, and, apart from new points of view, there are a lot of new words worth learning.
@@ -10,7 +10,7 @@ summary: I have read this bestseller from Mark Manson, and, apart from new point
 I have read this bestseller from Mark Manson, and, apart from new points of view, there are a lot of new words worth learning.
 
 - **a deception** = a lie
-- **an abundance** = a plenty, excess, very large quantity of something
+- **an abundance** = plenty, excess, very large quantity of something
 - **to extricate** = to free, get out
 - **meticulously** = thoroughly
 - **a repercussion** = a consequence, outcome, aftermath
@@ -26,11 +26,11 @@ I have read this bestseller from Mark Manson, and, apart from new points of view
 - **to chuckle** = to laugh quietly or inwardly
 - **unfazed** = calm
 - **gruesome** = horrifying, frightful, disgusting
-- **a tedium** = a boredom, monotony
-- **an awe** = a wonder, admiration, thrill
+- **a tedium** = boredom, monotony
+- **awe** = a wonder, admiration, thrill
 - **dismal** = gloomy, bleak, depressing
 - **to rebel** = to rise in opposition or armed resistance to an established government or ruler
-- **a precedence** = a priority, rank, superiority
+- **precedence** = a priority, rank, superiority
 - **to concede** = to surrender, yield, give up
 - **an adage** = a saying, proverb or short statement expressing a general truth
 - **to preempt** = to acquire or appropriate something in advance
@@ -38,7 +38,7 @@ I have read this bestseller from Mark Manson, and, apart from new points of view
 - **an entitlement** = a right, privilege
 - **insidious** = treacherous, proceeding in a gradual, subtle way, but with harmful effects
 - **susceptible** = open to, vulnerable to, an easy target for something
-- **a despair** = a hopelessness, discouragement
+- **despair** = hopelessness, discouragement
 - **rebuffed** = rejected
 - **a martyr** = a person who is killed because of their religious or other beliefs
 - **to relinquish** = to refuse, deny, give up
@@ -47,7 +47,7 @@ I have read this bestseller from Mark Manson, and, apart from new points of view
 - **malleable** = able to be hammered or pressed permanently out of shape without breaking or cracking
 - **veritable** = present, real, true, genuine, authentic
 - **to deteriorate** = to worsen
-- **a molestation** = an annoyance
+- **molestation** = an annoyance
 - **a prevalence** = an abundance, commonness
 - **sober** = not drunk, clearheaded
 - **an embellishment** = a prettification, a decorative detail or feature added to something to make it more attractive
@@ -84,7 +84,7 @@ I have read this bestseller from Mark Manson, and, apart from new points of view
 - **a guerrilla** = a partisan
 - **to ingest** = to swallow
 - **mediocre** = average, ordinary, untalented
-- **a masculinity** = a manliness
+- **masculinity** = a manliness
 - **to exacerbate** = to worsen, sharpen (problem)
 - **an inundation** = an overwhelming abundance of people or things, flooding
 - **pervasive** = spreading widely throughout an area or a group of people (especially of an unwelcome influence or physical effect)
@@ -161,7 +161,7 @@ I have read this bestseller from Mark Manson, and, apart from new points of view
 - **to obliterate** = to wipe out, destroy
 - **to implore** = to beg, plead
 - **to regurgitate** = to erupt, to bring swallowed food up again to the mouth
-- **a vertigo** = a sensation of whirling and loss of balance
+- **vertigo** = a sensation of whirling and loss of balance
 - **heady** = intoxicating
 - **to mesmerize** = to hypnotize
 - **hefty** = large, heavy, powerful

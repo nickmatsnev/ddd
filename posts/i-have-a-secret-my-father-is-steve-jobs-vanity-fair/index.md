@@ -1,7 +1,7 @@
 ---
 title: “I Have a Secret. My Father Is Steve Jobs” — Vanity Fair
 date: 2018-08-22
-draft: false
+updated: 2019-07-05
 tags: [English]
 featured_image: lisa2.png
 summary: Here I’d like to share all words and expressions I’ve found out reading the article about Steve Jobs’ daughter Lisa.
@@ -9,7 +9,7 @@ summary: Here I’d like to share all words and expressions I’ve found out rea
 
 Here I’d like to share all words and expressions I’ve found out reading [the article](//www.vanityfair.com/news/2018/08/lisa-brennan-jobs-small-fry-steve-jobs-daughter) about Steve Jobs’ daughter Lisa.
 
-- **a vastness** = wideness
+- **a vastness** = a wideness
 - **to struggle** = to fight
 - **celadon** = gray and green at the same time
 - **sated** = satisfied
@@ -21,13 +21,13 @@ Here I’d like to share all words and expressions I’ve found out reading [the
 - **a nuisance** = an annoyance, inconvenience, trouble
 - **a reconciliation** = the restoration of friendly relations
 - **fetid** = smelling extremely unpleasant
-- **sinky** = fetid
+- **stinky** = fetid
 - **a swamp** = an area of low-lying, uncultivated ground where water collects, a bog or marsh
 - **to hoist** = to raise, lift
 - a vertebrae
 - **derivative** = something that is based on another source
 - **welfare** = well-being, wealth
-- **a paternity** = the state of being someone’s father, paternal origin
+- **paternity** = the state of being someone’s father, paternal origin
 - **sublet** = a property that has been subleased
 - **to shudder** = to shake, tremor
 - **to echo off** = to drive away

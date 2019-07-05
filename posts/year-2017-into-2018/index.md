@@ -1,7 +1,7 @@
 ---
 title: Year 2017 into 2018
 date: 2017-12-31
-draft: false
+updated: 2019-07-05
 tags: [Life]
 featured_image: santa_claus.png
 summary: This is the first post summarizing what I felt I accomplished throughout the year and some of my goals for the year to come. 
@@ -76,7 +76,7 @@ This year I happened to travel around Russia and Belarus, visiting both small an
 - Visited **3** lectures and few excursions.
 - Worked part-time.
 - Started to learn cryptography.
-- Walked with excursion around Moscow **3** times.
-- Went to swimming pool several times.
+- Walked with an excursion around Moscow **3** times.
+- Went to the swimming pool several times.
 
-Looking forward to new year and great achievements coming. Happy New Year!
+Looking forward to the new year and great achievements coming. Happy New Year!

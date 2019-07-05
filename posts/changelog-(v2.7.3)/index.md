@@ -51,16 +51,16 @@ Moved to Hugo awaiting new redesign!
 
 ## Update 2.6
 
-- A tiny snippet replaced original Google Analytics script.
+- A tiny snippet replaced original the Google Analytics script.
 - Print styles were added.
 - WebP images that were bigger than their originals were deleted.
 - All SVG images were optimized.
-- The grammar and punctuation was fixed everywhere to comply with the rules of American English.
+- The grammar and punctuation were fixed everywhere to comply with the rules of American English.
 - Reading progress now recalculates on window resize.
-- Small .vk social icon became bigger to match other icons.
+- The small .vk social icon became bigger to match other icons.
 - When the user starts selecting the code, the new notification about “double-click to copy” functionality will appear.
 - [Quicklink](//github.com/GoogleChromeLabs/quicklink) is now used across the website.
-- Formula for calculating approximate reading time was changed a bit.
+- The formula for calculating approximate reading time was changed a bit.
 - Other minor improvements.
 
 ## Update 2.5
@@ -87,7 +87,7 @@ Moved to Hugo awaiting new redesign!
 - A bug when the user could not return to the previous position after clicking UP button in Edge was fixed.
 Search input placeholder now has the same color in all browsers.
 - `<pre>` now has the same selection color in all browsers.
-- `::before` and `::after` pseudo elements now have `box-sizing: border-box`.
+- `::before` and `::after` pseudo-elements now have `box-sizing: border-box`.
 - Blog page now serves smaller thumbnails, overall page size became smaller by 17%.
 - `<time>` elements got `datetime` attributes.
 - The homepage does not load Roboto Mono anymore.
@@ -107,10 +107,9 @@ Since the previous update I have:
 
 ## Update 2.2
 
-- All code this website depends on was linted to the common code style.
-- Selection inside code blocks got its own color.
+- The selection inside code blocks got its own color.
 - Double click inside code blocks will select code inside.
-- Top menu became smaller.
+- The top menu became smaller.
 - Typography on mobile devices was improved.
 - Recent posts are now displayed at the top of the blog page.
 - Comments were fixed (in some cases it was impossible to leave a reply to another comment).
@@ -128,14 +127,14 @@ Another thing to be reinvented was the top menu. I’ve got rid of unimportant i
 - The UP-DOWN button was added.
 - All elements that had rounded corners lost them.
 - New project thumbnail hover animation.
-- Font became responsive, huge headings are displayed correctly on small screens.
+- The font became responsive, huge headings are displayed correctly on small screens.
 - New snippets page.
 - Code blocks became full-width.
 - New layout for blog post headings.
 
 ## Update 2.0
 
-Here is an update note about changes applied to my website since March 2018. Update 2.0 primarily affected the backend part of kottsov.com, but had a few effects on the front. Now I want to review key changes I’ve made.
+Here is an update note about changes applied to my website since March 2018. Update 2.0 primarily affected the backend part of kottsov.com, but had a few effects on the front. Now I want to review the key changes I’ve made.
 
 ### Projects
 One of the main content types on my website is a project. This update had a great effect on this. First of all, the appearance of each project post has changed a little: I removed dates and links from the thumbnails, as they were difficult to use. Now project thumbnails nicely stretch, fitting the screen width and height despite their own size.
@@ -155,7 +154,7 @@ Now it comes to backend changes. The way I handle every project has completely c
 I added another Custom Post Type called Announce. It will be used to display some relevant information inside The Project Gallery on the main page. It has the same size and style as a project but contains the text instead of project meta.
 
 ### Search
-Search was greatly improved. Now it allows searching for any post, project, category, tag or meta. Now you can easily find posts of the exact category, a project with a particular tag and so on. Search results are now grouped by project-first principle.
+The search was greatly improved. Now it allows searching for any post, project, category, tag or meta. Now you can easily find posts of the exact category, a project with a particular tag and so on. Search results are now grouped by project-first principle.
 
 ### Blog page
 The blog page has been completely redesigned. Now posts are divided into categories and displayed in perfect beautiful grids. The annoying animation on hover was removed, blog post links at the bottom were changed.
@@ -173,8 +172,8 @@ Some minor changes:
 
 - Now I use Highlight.js and Atom One Dark theme to highlight the code.
 - CSS was written from scratch.
-- Logo had a little change.
-- A number of different colors used was reduced.
+- The logo had a little change.
+- The number of different colors used was reduced.
 - Body width was increased up to 1000px.
 - Search icon was replaced.
 - New links colors.

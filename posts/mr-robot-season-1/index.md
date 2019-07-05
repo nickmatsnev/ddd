@@ -1,7 +1,7 @@
 ---
 title: "Mr. Robot: Season 1"
 date: 2018-05-20
-draft: false
+updated: 2019-07-05
 tags: [English]
 featured_image: mr_robot_folder.png
 summary: I am into learning English and, thanks to modern technologies, we have a lot of ways to do it. One of them is to watch films and serials, where the actors’ mother tongue is English.
@@ -13,7 +13,7 @@ I watched Mr. Robot from the beginning to the end and I would like to share some
 
 I will always write down a list of words and expressions I have found and will analyze only those of them which were misunderstood.
 
-#### Briefly
+## Definitions
 
 - **lame** = stupid, awkward
 - **to flee** = to run away
@@ -116,7 +116,7 @@ I will always write down a list of words and expressions I have found and will a
 - **to take a hint** = to understand something indirectly communicated
 - **to mess up** = to make a mistake, to ruin
 - to seem off
-- to deviate (from schedule)
+- to deviate (from the schedule)
 - promises matter
 - a twist
 - over the years
@@ -141,7 +141,7 @@ I will always write down a list of words and expressions I have found and will a
 - **a dough** = here: money
 - **a ware** = a good, product (~ warehouse)
 - **jittery** = nervous, fearful
-- **to spit** = to eject **saliva** from mouth as a gesture of anger
+- **to spit** = to eject **saliva** from the mouth as a gesture of anger
 - **to hug** = to squeeze someone tightly in one’s arms
 - **to shore away** = to leave
 - **a sacred pact** = holy, God blessed
@@ -162,7 +162,7 @@ I will always write down a list of words and expressions I have found and will a
 - **notwithstanding something** = in spite of something, despite something
 - **a maze** = a labyrinth
 - **to swing by** = to visit for a brief amount of time, especially as a deviation from a direct course
-- [a wing man](#a-wingman)
+- [a wingman](#a-wingman)
 - **to sip** = to drink something by taking small mouthfuls
 - **corny** = _banal_ or too sentimental
 - **elusive** = intangible, hardly possible to feel
@@ -175,7 +175,7 @@ I will always write down a list of words and expressions I have found and will a
 - **alleged** = accused but not proven
 - **to crumble** = to fall apart into small fragments
 - **pathetic** = miserable
-- **a bidder** = a person who makes offer for auction
+- **a bidder** = a person who makes an offer for auction
 - **a binder** = a substance used to stick materials together
 - **to surpass** = to exceed
 - **adhesive** = sticky
@@ -199,14 +199,14 @@ I will always write down a list of words and expressions I have found and will a
 - **compliant** = flexible
 - **to stick around** = to remain in or near a place
 - **to bring down** = to shoot down, beat
-- **a casualty** = accident resulted to a death, victim, murdered person
+- **a casualty** = accident resulted in a death, victim, murdered person
 - [to haul](#to-haul)
 - **to partake** = to take part in something
 - **a nod** = an action of lowering and raising the head as a signal of understanding
 - **tad** = bit, little + _adjective;_  
     _It’ll be tad uncomfortable = It’ll be a bit uncomfortable._
 - **a villain** = criminal, a character who does evil
-- **a slumber** = a sleep, dream, nap
+- **a slumber** = sleep, dream, nap
 - an overlord
 - **to be assured** = to be sure, confident about something
 - **to chat someone up** = to engage someone in flirtatious conversation
@@ -218,9 +218,9 @@ I will always write down a list of words and expressions I have found and will a
 - **to mess around** = to waste time
 - a decongestant
 - runny nose
-- **to chug** = to emit a series of regular explosive sounds, when engine runs slowly
+- **to chug** = to emit a series of regular explosive sounds, when the engine runs slowly
 - **to seduce** = to attract, tempt
-- **a silver lining** = hopeful side of a situation, positive aspect
+- **a silver lining** = hopeful side of a situation, a positive aspect
 - **an airtight** = not allowing air to escape or pass through
 - [aspirational](#aspirational)
 - **a spilled milk** = something that you should not cry over, an action that cannot be undone
@@ -264,21 +264,21 @@ I will always write down a list of words and expressions I have found and will a
 - to be one’s domain
 - **to tap someone for something** = to select someone for some purpose or position
 - **to indulge** = to take pleasure in doing something, to do something habitually
-- **a payload** = a part of vehicle’s load which gives profit, useful load
+- **a payload** = a part of a vehicle’s load which gives profit, useful load
 - **to bail** = to release or secure the release of a prisoner on payment of bail
 - to crash at one’s place
 - **to play hooky** = to play truant (be absent from study with no reason)
 - **a blanket** = a large piece of wool used as a bed covering
 - to dump
-- to have stomach for something
+- to have the stomach for something
 - **a pillow** = a piece of soft material used to support the head when lying down
 - **a sensation** = a feeling
-- **fight-or-flight** = a response, when it’s important to make choice: either to fight or to flee
+- **fight-or-flight** = a response when it’s important to make choice: either to fight or to flee
 - **a crosshair** = an aim
-- **a chemical waste spill** = chemical liquid been spilled
+- **a chemical waste spill** = chemical liquid that has been spilled
 - **alleged** = supposed
-- **superficial** = on the surface, obvious one
-- **a gossip** = a rumor, reports about people with unproved details
+- **superficial** = on the surface, the obvious one
+- **a gossip** = a rumor, reports about people with unproven details
 - **convicted** = a prisoner, criminal
 - **an assault** = a physical attack, violence
 - **incarnate** = impersonated, in human form
@@ -298,7 +298,7 @@ I will always write down a list of words and expressions I have found and will a
 - **a fugitive** = an escapee
 - **a wanderer** = a traveler, hiker, nomad, ranger
 - **a spirit** = a mind, ghost, soul
-- **a heaven** = the skies
+- **heaven** = the skies
 - **an intel** = an information of military or political value
 - **a niece** = a daughter of one’s brother or sister
 - **ecstatic** = joyful, overjoyed
@@ -306,7 +306,7 @@ I will always write down a list of words and expressions I have found and will a
 - **a drummer** = a drum player, salesman, vagabond
 - **rad** = excellent, impressive
 - **deaf** = lacking the power of hearing or having impaired hearing
-- **a rationale** = logical basis for an action, logical explanation, background
+- **a rationale** = logical basis for action, logical explanation, background
 - **an aberration** = an anomaly, deviation
 - an abnormality
 - **filthy** = dirty
@@ -316,30 +316,30 @@ I will always write down a list of words and expressions I have found and will a
 - **a duty-bound** = morally or legally obliged to do something
 - **to come out of the woodwork** = from nowhere
 - **a glimmer** = a flash, blink
-- **to plow through** = to move through something with a lot of difficulty
+- **to plow through** = to move through something with a lot of difficulties
 - **an upheaval** = a revolution, shift
 - **to inflict** = to cause (something unpleasant or painful) to be suffered by someone or something
 - **to facilitate** = to assist, cooperate, support, cowork with government
 - **an attorney** = an advocate
 - **a caveat** = a warning, precaution
-- **ballsy** = tough and courageous, with power to get through despite difficulties
+- **ballsy** = tough and courageous, with the power to get through despite difficulties
 - **a proposition** = an offer, proposal
 - **a chaise lounge** = a bed for sunbathing
 - a yeast
 - **a blend** = a mix
 - **to testify** = to give evidence
-- **a custody** = a care, safekeeping
+- **custody** = a care, safekeeping
 - **to crate** = pack something in a crate for transportation
-- **a testimony** = an evidence, statement
+- **a testimony** = evidence, statement
 - **scot-free** = without suffering any punishment or injury
 - **a platter** = a large flat dish or plate
 - **a pansy** = a gay
 - **sore** = painful, sick
 - **reprimanded** = got a rebuke, especially an official one
 - **to crave** = to feel a powerful desire for something
-- **a stairwell** = a flat place on staircase, between floors
+- **a stairwell** = a flat place on a staircase, between floors
 - **a tattletale** = a chatterbox, a person, especially a child, who reveals secrets or informs on others
-- **gullible** = naive, overtrustful, exploitable
+- **gullible** = naive, exploitable
 - **to cling** = to try very hard to keep something
 - **to pal around** = to spend time with someone that you are very friendly with
 - **a whiff** = a puff or breath of air or smoke
@@ -354,7 +354,7 @@ I will always write down a list of words and expressions I have found and will a
 - **to peek over something** = to raise up and look over some barrier
 - **dumb** = unable to speak or stupid
 - **to tiptoe** = to walk on the tips of one’s toes
-- **a perpetrator** = a violator, offender
+- **a perpetrator** = a violator, an offender
 - **a decoy** = a bait, attraction, trap
 - **to keep tabs on something** = to routinely monitor or observe something
 - **to distract** = to disturb, prevent someone from giving full attention to something
@@ -362,15 +362,15 @@ I will always write down a list of words and expressions I have found and will a
 - **to outrank** = to have a higher rank than someone else
 - **to do someone a solid** = to do someone a favor
 - **to allot** = to distribute to, assign to, allocate to, give or apportion something to someone as a share or task
-- **to stray** = to get lost, to deviate from right path
+- **to stray** = to get lost, to deviate from the right path
 - **to bewilder** = to confuse
 - to inspire confidence
-- **a greed** = an intense and selfish desire for something, especially wealth, power, or food
+- **greed** = an intense and selfish desire for something, especially wealth, power, or food
 - **a trickle-down** = in economics, when the poorest gradually benefit as a result of the increasing wealth of the richest
 - a fable
 - **pitiful** = deserving or arousing pity
-- **an avarice** = an extreme greed for wealth or material gain
-- **to be complicit** = to be involved with others in an illegal activity or wrongdoing
+- **an avarice** = extreme greed for wealth or material gain
+- **to be complicit** = to be involved with others in illegal activity or wrongdoing
 - **a cubicle** = a fenced office desk
 - **to peek into something** = to steal a quick glimpse into something
 - **to be allies** = to be an ally to someone, to be in state formally cooperating with another for a military or other purpose, typically by treaty
@@ -386,7 +386,7 @@ I will always write down a list of words and expressions I have found and will a
 - **disconcerting** = unsettling, upsetting, confusing
 - **impromptu** = done without being planned or rehearsed
 - **a shrink** = a therapist (comes from “brain shrinker”)
-- **to pop ones pills** = to take pills of medicinal or recreational drugs rapidly and in large quantities
+- **to pop one's pills** = to take pills of medicinal or recreational drugs rapidly and in large quantities
 - a haze
 - **to put something on hold** = to pause, postpone, or suspend an activity
 - **to fire on all cylinders** = to operate at the most desirable or greatest possible level of efficiency, speed, or productivity
@@ -398,14 +398,14 @@ I will always write down a list of words and expressions I have found and will a
 - **to have a way with something** = to have a special skill for doing something, to be successful in doing something
 - **to beat around the bush** = to avoid answering a question
 - to nab
-- **a distress** = an extreme anxiety, sorrow, or pain
+- **a distress** = extreme anxiety, sorrow, or pain
 - **to lash out** = to suddenly attack someone or criticize him in an angry way
 - **a mishap** = an unlucky accident
 - **to confront with something** = to face something
 - to be on track
 - **to reconcile** = to restore friendly relations between
-- **B and E** = Breaking and Entering, to enter property you don’t own with force
-- **to struck out** = to try to do something multiple times with failure
+- **B and E** = Breaking and Entering, to the enter property you don’t own with force
+- **to strike out** = to try to do something multiple times with failure
 - **to get all mushy on someone** = to be too sensitive towards someone
 - **to be let go** = to be fired
 - **to take a gamble** = to do something that could produce a bad or unpleasant result
@@ -416,8 +416,8 @@ I will always write down a list of words and expressions I have found and will a
 - **to land a job** = to offer a job
 - **to slum** = to go out with someone on a lesser scale than you
 - **a rainy-day fund** = a reserved amount of money to be used in times when regular income is disrupted or decreased in order for typical operations to continue
-- **certifiable** = needing treatment for mental disorder, crazy, mad
-- **to prosecute** = to officially accuse someone of committing a crime, to prove that person is guilty of the crime
+- **certifiable** = needing treatment for mental a disorder, crazy, mad
+- **to prosecute** = to officially accuse someone of committing a crime, to prove that a person is guilty of the crime
 - **to get one’s hands on something** = to get, obtain
 - to provoke
 - **worrisome** = worrying, causing anxiety or concern
@@ -445,13 +445,13 @@ I will always write down a list of words and expressions I have found and will a
 - **a repercussion** = a consequence, result, effect, outcome
 - **to relegate** = to downgrade, lower
 - **a disruption** = a disturbance or problems which interrupt an event, activity, or process
-- **to talk one’s way out of something** = to use charming or persuasive speech in order to avoid something
+- **to talk one’s way out of something** = to use a charming or persuasive speech in order to avoid something
 - **a carnage** = a mass murder
 - **succinctly** = in a brief and clearly expressed manner
 - **hasty =** fast, quick, hurried
 - **merrily** = in a cheerful way, without consideration for the consequences
 
-## To devastate
+### To devastate
 
 Equal to verbs **destroy**, **ruin**. Means to make something empty. **To be devastated by something**—to become empty because of something.
 
@@ -460,16 +460,16 @@ Equal to verbs **destroy**, **ruin**. Means to make something empty. **To be dev
 
 Elliot is talking to himself at his psychotherapist. **Devastate** can have two meanings: to physically devastate the area, city, etc… and to frustrate mentally.
 
-## A foray
+### A foray
 
-Equal to noun **finding**. Means something you have accidentally _came across_.
+Equal to noun **finding**. Means something you have accidentally _come across_.
 
 > Her most recent **foray**… Michael Hansen.  
 > I searched for him online, but nothing came up.
 
 Elliot is talking to himself at his psychotherapist about her new companion. Meaning she was in search of a man to date with for a long time and now here he is.
 
-## To bug
+### To bug
 
 Equal to verbs **annoy, provoke, irritate**. If something **bugs you**, it scratches some part of your mind, prevents you from being in the usual state of mind.
 
@@ -479,7 +479,7 @@ Equal to verbs **annoy, provoke, irritate**. If something **bugs you**, it scrat
 
 Elliot is talking to himself at his psychotherapist about Michael Hanson.
 
-## To hold on to
+### To hold on to
 
 Means to live with something inside you, something that can’t _break out_. If you don’t express your feelings—they accumulate inside, and you **hold on to** them.
 
@@ -488,7 +488,7 @@ Means to live with something inside you, something that can’t _break out_. If 
 
 Elliot’s psychotherapist is talking about him.
 
-## To masquerade (as)
+### To masquerade (as)
 
 Equal to verb **pretend**. To masquerade as somebody or something means to pretend to be someone one is not, to pretend to be another.
 
@@ -496,7 +496,7 @@ Equal to verb **pretend**. To masquerade as somebody or something means to prete
 
 Elliot is talking to himself at psychotherapist about society.
 
-## Thorough
+### Thorough
 
 Means something done with regard to every detail, with no details missed. If you do something **thoroughly** (= carefully) you do it as good as you can, working on every small detail.
 
@@ -504,9 +504,9 @@ Means something done with regard to every detail, with no details missed. If you
 
 Elliot is watching a TV program about Evil Corp.
 
-## To hold in
+### To hold in
 
-Means forcing something to stay on its place, to remain in particular position. If you **hold in** something, you don’t let it escape.
+Means forcing something to stay in its place, to remain in a particular position. If you **hold in** something, you don’t let it escape.
 
 > I hate when I can’t **hold in** my loneliness.  
 > This cryings been happening too often.  
@@ -514,16 +514,16 @@ Means forcing something to stay on its place, to remain in particular position. 
 
 Elliot is crying at home.
 
-## A mortgage
+### A mortgage
 
-**Mortgage** is a property you give to your creditor as security for debt on condition you’ll get it back as soon as you pay back.
+**A mortgage** is a property you give to your creditor as security for debt on the condition you’ll get it back as soon as you pay back.
 
 > That would erase all the debt we owe them.  
 > Every record of every credit card, loan, and **mortgage** would be wiped clean.
 
 Elliot is talking to Mr. Robot on Ferris wheel.
 
-## Serendipitous
+### Serendipitous
 
 Means something that occurred or was discovered by chance in a happy or beneficial way. For example, if something profitable for you happened accidentally, without your action, it would be **serendipitous**.
 
@@ -532,7 +532,7 @@ Means something that occurred or was discovered by chance in a happy or benefici
 
 Tyrell Wellick about the recent attack on Evil Corp.
 
-## To call in sick
+### To call in sick
 
 Means informing one’s employer that one will be absent due to illness (real or feigned).
 
@@ -543,7 +543,7 @@ Means informing one’s employer that one will be absent due to illness (real or
 
 Elliot being shocked by fsociety video.
 
-## A curtsy
+### A curtsy
 
 Means a woman’s or girl’s formal greeting made by bending the knees with one foot in front of the other. Used with verbs _to bob_ (she bobbed a curtsy to him) and _to perform_.
 
@@ -551,7 +551,7 @@ Means a woman’s or girl’s formal greeting made by bending the knees with one
 
 Elliot coming back to the fsociety after Colby’s arrest.
 
-## To loop someone in
+### To loop someone in
 
 To make someone kept informed about and/or involved in something, such as a plan or project. To add someone to the thread, email list or something like that.
 
@@ -562,7 +562,7 @@ To make someone kept informed about and/or involved in something, such as a plan
 
 Tyrell Wellick willing to talk to his employer about promotion.
 
-## A revelation
+### A revelation
 
 Means a surprising and previously unknown fact that has been disclosed to others. If you reveal some fact to others, this fact becomes a revelation.
 
@@ -570,30 +570,30 @@ Means a surprising and previously unknown fact that has been disclosed to others
 
 Elliot monologue about debugging in hospital.
 
-## A wing man
+### A wingman
 
-Means a guy you bring along with you on singles outings (like to bar) that helps you out with the women. The wing man will always be there to “occupy” the least attractive girl of the pair so that you may engage in the “hotty”—UrbanDictionary.
+Means a guy you bring along with you on singles outings (like to bar) that helps you out with the women. The wingman will always be there to “occupy” the least attractive girl of the pair so that you may engage in the “hotty”—UrbanDictionary.
 
 > Oh, that’s nice.  
 > I think she likes you, bud.  
 > All right, fine, I’ll take her.  
-> But let the record show, I was trying to be a good **wing man**.
+> But let the record show, I was trying to be a good **wingman**.
 
 Mr. Robot in the AllSafe office.
 
-## Bribed
+### Bribed
 
-Means dishonestly persuading someone to act in one’s favor by a gift of money or something else. Equals to verb **pay off**. Then **bribed** means someone been paid off.
+Means dishonestly persuading someone to act in one’s favor by a gift of money or something else. Equals to verb **pay off**. **Bribed** means someone who has been paid off.
 
 > Biosynthesized in some lab in Mexico, packed into a pill, shipped to the States where it was packaged with a logo and taxed by the government, stolen by a **bribed** guard, sold to a Vera [henchman](#a-henchman), oversold to Shayla, and then to me.
 
 Elliot about his last line.
 
-## A henchman
+### A henchman
 
 Someone who is either a trusted follower, a right-hand man or a political follower whose support is chiefly for personal advantage or a member of a gang. One who follows, usually without asking why, for the side of evil.
 
-## DOA
+### DOA
 
 [Wiki](//en.wikipedia.org/wiki/Dead_on_arrival): Dead-on-arrival—is a term used to indicate that a patient was found to be already clinically dead upon the arrival of professional medical assistance, often in the form of first responders such as emergency medical technicians, paramedics, or police. Here DOA means something that initially has no chances to succeed.
 
@@ -601,7 +601,7 @@ Someone who is either a trusted follower, a right-hand man or a political follow
 
 Romero talking about Elliot’s plan.
 
-## A nerd
+### A nerd
 
 Means a foolish person who lacks social skills or is boringly studious. **A nerd** also means a person seen as overly intellectual, obsessive, or lacking social skills (introvert). He or she spends all time on unpopular activities or study.
 
@@ -609,7 +609,7 @@ Means a foolish person who lacks social skills or is boringly studious. **A nerd
 
 Romero about Elliot’s appearance.
 
-## To haul
+### To haul
 
 Similar to verbs **pull** and **drag**. Here means pulling behind something useless with effort.
 
@@ -617,16 +617,16 @@ Similar to verbs **pull** and **drag**. Here means pulling behind something usel
 
 Romero about their future plans without Elliot.
 
-## Aspirational
+### Aspirational
 
 A person that has or shows a desire to achieve a high level of success or social status.
 
 > — Besides, who told you to put your business anywhere near social media?  
 > — My **aspirational** little brother.
 
-Fernando about his business in Twitter.
+Fernando about his business on Twitter.
 
-## A plea
+### A plea
 
 A formal statement by or on behalf of a defendant or prisoner, stating guilt or innocence in response to a charge, offering an allegation of fact, or claiming that a point of law should apply.
 
@@ -635,12 +635,11 @@ A formal statement by or on behalf of a defendant or prisoner, stating guilt or 
 
 Fernando talking to counsel about his sentence.
 
-## To drink Kool-Aid
-
-**Drinking the Kool-Aid** usually refers to people who blindly accept the “truths” of charismatic charlatans that have alternate agendas, which can lead their followers to physical, emotional, or financial harm and even death. It’s  
-often assumed that people who drink the Kool-Aid are stupid or uneducated.
+### To drink Kool-Aid
 
 _TL;DR:_ To blindly follow and support something without first looking into it or researching it.
+
+**Drinking the Kool-Aid** usually refers to people who blindly accept the “truths” of charismatic charlatans that have alternate agendas, which can lead their followers to physical, emotional, or financial harm and even death. It’s often assumed that people who drink the Kool-Aid are stupid or uneducated.
 
 > — Listen, this isn’t my business, but don’t **drink their Kool-Aid**.  
 > — Look, I just needed a job.  
