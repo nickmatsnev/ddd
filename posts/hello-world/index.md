@@ -1,7 +1,7 @@
 ---
 title: Hello, World!
 date: 2017-11-27
-updated: 2019-07-05
+lastmod: 2019-07-05
 tags: [News]
 featured_image: rocket_icon.png
 summary: This post is the initial point from where this website begins. I have completely reinvented my personal website.

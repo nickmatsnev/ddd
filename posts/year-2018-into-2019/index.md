@@ -1,7 +1,7 @@
 ---
 title: "Year 2018 into 2019"
 date: 2018-12-31
-updated: 2019-07-05
+lastmod: 2019-07-05
 tags: [Life]
 featured_image: fireworks.png
 summary: 2018 is at its end, and now I want to list all the important things that have happened during the past year.

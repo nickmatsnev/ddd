@@ -1,7 +1,7 @@
 ---
 title: Year 2017 into 2018
 date: 2017-12-31
-updated: 2019-07-05
+lastmod: 2019-07-05
 tags: [Life]
 featured_image: santa_claus.png
 summary: This is the first post summarizing what I felt I accomplished throughout the year and some of my goals for the year to come. 

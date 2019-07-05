@@ -1,7 +1,7 @@
 ---
 title: "Mr. Robot: Season 3"
 date: 2018-05-27
-updated: 2019-07-05
+lastmod: 2019-07-05
 tags: [English]
 featured_image: mr_robot_folder.png
 summary: Season 3 is the end by now, meaning that it is the last piece of words and expressions discovered and picked up from Mr. Robot TV show.

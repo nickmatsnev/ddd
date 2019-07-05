@@ -1,7 +1,7 @@
 ---
 title: New York City
 date: 2018-09-15
-updated: 2019-07-05
+lastmod: 2019-07-05
 tags: [Life]
 featured_image: nyc_vector.png 
 summary: I’ve been to New York this summer, and by this post is to share all my notes and some of my photos of this famous city.
