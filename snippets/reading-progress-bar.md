@@ -1,7 +1,7 @@
 ---
 title: Reading Progress Bar
 date: 2019-04-13
-language: JavaScript
+languages: [JavaScript]
 scripts: [precode_selector.js]
 description: This snippet will help you create a progress bar indicating reading progress.
 ---

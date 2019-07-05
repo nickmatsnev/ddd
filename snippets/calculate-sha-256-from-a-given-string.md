@@ -1,7 +1,7 @@
 ---
 title: Calculate SHA-256 from a Given String
 date: 2019-04-15
-language: JavaScript
+languages: [JavaScript]
 scripts: [precode_selector.js]
 description: This snippet calculates SHA-256 hash from a given string using native SubtleCrypto interface.
 ---

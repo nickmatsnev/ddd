@@ -1,6 +1,6 @@
 ---
 title: Code
-scripts: []
+scripts: [filter.js]
 description: Here you can find a list of various useful code snippets to solve your problems in any programming language.
 ---
 
