@@ -63,15 +63,12 @@ Here’s the algorithm implemented in the code above:
 
 1.  Define `main` and `bar` variables once during page load.
 2.  During the scroll:
-
     1.  Calculate, where the target element starts (in pixels from document top).
     2.  If the user has started scrolling inside the target element:
-
         1.  Count the ratio (a decimal) indicating how much of the target element the user has already scrolled.
         2.  If the user reaches the end of document earlier than the bottom of the target element disappears, apply another formula for calculating progress: calculate how much the user has scrolled inside an area that starts at the point the target element starts and ends when document ends.
         3.  If the user is inside the target element (`progress <= 1`), set the progress bar width equals to previously calculated ratio converted to percents with two digits after comma.
         4.  If the user has scrolled the target element completely, set the width equals to 100% (sometimes the bar gets stuck somewhere below 100%, so fix it).
-
     3.  If the user hasn't started scrolling the target element, set the width equals to 0 (sometimes the bar gets stuck somewhere above 0%, so fix it).
 
 **Tip:** sometimes it’s better to throttle scroll event and add `transition: all 50ms linear;` to progress bar in order to improve performance. This can help you avoid firing scroll event too often and maintain smooth animation at the same time.
