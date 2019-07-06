@@ -3,6 +3,7 @@ title: Convert a String to an Integer Array
 date: 2018-12-27
 languages: [C#]
 scripts: [precode_selector.js, relative_date.js]
+styles: [prism.css]
 description: Parse the string with numbers divided by spaces into an integer array.
 ---
 

@@ -3,6 +3,7 @@ title: Full-Width Block Inside a Fixed-Width Parent
 date: 2019-04-13
 languages: [CSS]
 scripts: [precode_selector.js, relative_date.js]
+styles: [prism.css]
 description: This snippet makes it possible to create full-width blocks inside a parent that has fixed width
 ---
 
