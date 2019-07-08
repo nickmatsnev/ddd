@@ -1,14 +1,14 @@
 ---
 title: Kaplan Vocabulary Week 3
 date: 2018-08-17
-lastmod: 2019-07-05
+lastmod: 2019-07-08
 tags: [Learn English]
 featured_image: kaplan_logo.png
-summary: Week 3 at Kaplan Empire State is done and it is the last part of word and expressions I’ve learned.
+summary: Week 3 at Kaplan Empire State is gone and it is the last part of word and expressions I’ve learned.
 scripts: [relative_date.js]
 ---
 
-Week 3 at Kaplan Empire State is done and it is the last part of word and expressions I’ve learned.
+Week 3 at Kaplan Empire State is gone and it is the last part of word and expressions I’ve learned.
 
 - **GOAT** = Greatest Of All Time
 - **a jab** = a quick, sharp blow, especially with the fist
@@ -26,10 +26,10 @@ Week 3 at Kaplan Empire State is done and it is the last part of word and expres
 - **to confine** = to keep something in a small area
 - to turn a blind eye to something
 - **to crave something** = to have an extremely strong desire for something
-- **to detain** = to hold, keep (someone) in official custody, typically for questioning about a crime or in politically sensitive situations
-- **a crusade** = a major effort to change something (usually + for / against)
+- **to detain** = to hold, keep someone in official custody, typically for questioning about a crime or in politically sensitive situations
+- **a crusade (for / against)** = a major effort to change something
 - **to stroll** = to walk slowly in a pleasant and relaxed way
-- **gratifying** = giving (someone) pleasure or satisfaction
+- **gratifying** = giving someone pleasure or satisfaction
 - **fierce** = savage, intensively aggressive
 - **a portrayal** = a depiction of someone or something in a work of art or literature
 - **brisk** = quick, rapid, fast
@@ -42,17 +42,17 @@ Week 3 at Kaplan Empire State is done and it is the last part of word and expres
 - **to undermine** = to destroy, gradually make something less strong or effective
 - **illicit** = illegal
 - **to creep** = to move in a quiet, careful way
-- **to rev** = to increase the running speed of (an engine) or the engine speed of (a vehicle) by pressing the accelerator, especially while the clutch is disengaged
+- **to rev** = to increase the running speed of a vehicle engine by pressing the accelerator, especially while the clutch is disengaged
 - **an op-ed** = opinion editorial
-- **parole** = the release of a prisoner temporarily (for a special purpose) or permanently before the completion of a sentence, on the promise of good behavior
-- **to wreck** = to cause the destruction of (a ship) by sinking or breaking up
+- **parole** = the release of a prisoner temporarily or permanently before the completion of a sentence, on the promise of good behavior
+- **to wreck** = to cause the destruction of a ship by sinking or breaking up
 - **a tipping point** = a turning / critical point
-- **to inflict** = to cause (something unpleasant or painful) to be suffered by someone or something
+- **to inflict** = to cause something unpleasant or painful; to be suffered by someone or something
 - **to impose** = to force, take advantage of
 - **congested** = overpopulated, overcrowded, busy, full
-- **to amend** = to alter, modify, change, make minor changes in (a text) in order to make it fairer, more accurate, or more up-to-date
+- **to amend** = to alter, modify, change, make minor changes in a text in order to make it fairer, more accurate, or more up-to-date
 - **an evader** = who avoids paying taxes
-- **to incarcerate** = to imprison, to put into prison
+- **to incarcerate** = to imprison
 - **in lieu of** = instead of
 - **to fend** = to ward off, defend oneself from a blow, attack, or attacker
 - **a strain** = a pressure, stress
@@ -64,7 +64,7 @@ Week 3 at Kaplan Empire State is done and it is the last part of word and expres
 - **fugitive** = escaped, those who hide from police
 - **prolific** = productive, fruitful
 - **a fixture** = a piece of equipment or furniture that is fixed in position in a building or vehicle
-- **to bankroll** = to invest in, to support (a person, organization, or project) financially
+- **to bankroll** = to invest in, to support a person, organization, or project financially
 - **cushy** = comfortable
 - **ostentatious** = showy, show-off, boastful
 - **a claw hammer** = a hammer with one side of the head split and curved, used for extracting nails

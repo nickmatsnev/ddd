@@ -1,14 +1,14 @@
 ---
 title: Kaplan Vocabulary Week 1
 date: 2018-08-05
-lastmod: 2019-07-05
+lastmod: 2019-07-08
 tags: [Learn English]
 featured_image: kaplan_logo.png
 summary: Week at Kaplan International NYC has successfully passed and I’d like to share some words and expressions I’ve come across.
 scripts: [relative_date.js]
 ---
 
-Week at Kaplan International NYC has successfully passed and I’d like to share some words and expressions I’ve come across. So here are the words that are worth spreading and learning.
+Week at Kaplan International NYC has successfully passed and I’d like to share some words and expressions I’ve come across. So here are they:
 
 - **to be sidetracked / to get sidetracked** = to get distracted from point
 - **to wander** = walk or move in a leisurely, casual, or aimless way
@@ -18,7 +18,7 @@ Week at Kaplan International NYC has successfully passed and I’d like to share
 - **a rapport** = understanding, a close and harmonious relationship in which the people or groups concerned understand each other’s feelings or ideas and communicate well
 - **deceptive** = misleading
 - **enigmatic** = mysterious
-- speculation around something
+- speculation **around** something
 - **to be commissioned by** = to be ordered by
 - **to be blazoned** = to be printed out on a large scale, to be displayed prominently or vividly
 - **a placemat** = a small mat beneath a place setting at a dining table
@@ -43,7 +43,7 @@ _To kill out of love._
 - fast-paced (e.g. world)
 - to take refuge in something
 - **to be implied** = to be said directly, strongly stated
-- **a nominalization** = when verb becomes noun
+- **a nominalization** = the process when verb becomes noun
 - to make a commitment to
 - **to undergo something** = to face, experience or be subjected to (something, typically something unpleasant, painful, or arduous)
 - to line up  

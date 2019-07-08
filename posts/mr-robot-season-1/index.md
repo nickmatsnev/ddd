@@ -1,18 +1,14 @@
 ---
 title: "Mr. Robot: Season 1"
 date: 2018-05-20
-lastmod: 2019-07-05
+lastmod: 2019-07-08
 tags: [Learn English]
 featured_image: mr_robot_folder.png
 summary: I am into learning English and, thanks to modern technologies, we have a lot of ways to do it. One of them is to watch films and serials, where the actors’ mother tongue is English.
 scripts: [relative_date.js]
 ---
 
-I am into learning English and, thanks to modern technologies, we have a lot of ways to do it. One of them is to watch films and serials, where the actors’ mother tongue is English. In my opinion, it is a great way to pick up the necessary expressions and phrasal constructions that you can’t find in textbooks.
-
-I watched Mr. Robot from the beginning to the end and I would like to share some words, expressions, and phrases that were unfamiliar to me. I am convinced this will help not only me to revise my vocabulary, but for others to enlarge it.
-
-I will always write down a list of words and expressions I have found and will analyze only those of them which were misunderstood.
+I am into learning English and, thanks to modern technologies, we have a lot of ways to do it. One of them is to watch films and serials, where the actors’ mother tongue is English. I have entirely watched Mr. Robot and now I want to share some words, expressions, and phrases that were new to me.
 
 ## Definitions
 

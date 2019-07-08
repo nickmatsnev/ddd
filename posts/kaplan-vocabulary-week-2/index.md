@@ -1,23 +1,23 @@
 ---
 title: Kaplan Vocabulary Week 2
 date: 2018-08-14
-lastmod: 2019-07-05
+lastmod: 2019-07-08
 tags: [Learn English]
 featured_image: kaplan_logo.png
-summary: The second week has ended and it’s time I posted words and expressions picked up from native English speakers. As usual, with descriptions.
+summary: The second week has ended and it’s time I posted words and expressions that I picked up from native English speakers.
 scripts: [relative_date.js]
 ---
 
-The second week has ended and it’s time I posted words and expressions picked up from native English speakers. As usual, with descriptions.
+The second week has ended and it’s time I posted words and expressions that I picked up from native English speakers.
 
 - **to shoot the breeze** = to have a general _convo._ (conversation)
 - **to plead the fifth** = to decline to give an answer  
 _To plead fifth on meeting his ex-girlfriend._
-- **to spill the beans** = to be honest, frankly speaking
+- **to spill the beans** = to be honest; frankly speaking
 - **a concussion** = temporary unconsciousness caused by a blow to the head
 - **to slacken** = to reduce, to loosen
-- **to surge** = to rush, flow
-- **muffled**= not loud because of being obstructed in some way, muted
+- **to surge** = to rush, to flow
+- **muffled**= not loud because of being obstructed in some way; muted
 - **solemn** = formal
 - feverish
 - **to tumble** = to fall suddenly, collapse
@@ -34,7 +34,7 @@ _To plead fifth on meeting his ex-girlfriend._
 - **foregone** = inevitable
 - **a storey / story** = a level of the building (e.g. 50-story building)
 - **treacherous** = traitorous, unreliable
-- to get the drift
+- **to get the drift** = to understand
 - **to insulate** = to isolate
 - **to pluck up** = to bring to the fore
 - **to dash** = to ruin, destroy  

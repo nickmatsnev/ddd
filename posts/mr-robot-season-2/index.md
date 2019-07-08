@@ -1,14 +1,14 @@
 ---
 title: "Mr. Robot: Season 2"
 date: 2018-05-21
-lastmod: 2019-07-05
+lastmod: 2019-07-08
 tags: [Learn English]
 featured_image: mr_robot.png
 summary: This season brought us a more twisted plot, perfectly directed and filmed. We meet new characters, deal with a bunch of storylines.
 scripts: [relative_date.js]
 ---
 
-This season brought us a more twisted plot, perfectly directed and filmed. We meet new characters, deal with a bunch of storylines. However, there are not so many words I’d like to mention, but.
+This season brought us a more twisted plot, perfectly directed and filmed. We meet new characters, deal with a bunch of storylines.
 
 ## Briefly
 
@@ -80,7 +80,7 @@ This season brought us a more twisted plot, perfectly directed and filmed. We me
 - **a notion** = an idea, belief, opinion
 - **a meritocracy** = a social system, society, or organization in which people have power because of their abilities, not because of their money or social position
 - **almighty** = having complete power
-- **a flipside (flip side)** = another aspect or version of something, especially its reverse or its unwanted concomitant
+- **a flipside** = another aspect or version of something, especially its reverse or its unwanted concomitant
 - **brazen** = obvious
 - **to burden** = to load, oppress
 - **a turncoat** = a betrayer
@@ -168,7 +168,7 @@ This season brought us a more twisted plot, perfectly directed and filmed. We me
 - **influential** = powerful
 - **to portray** = to represent
 - **discreet** = careful
-- **notorious** = infamous, scandalous, well-known, famous, famed, legendary
+- **notorious** = infamous, scandalous, well-known, famous
 - **gory** = bloody
 - **to be in cahoots** = to work together in secret
 - **to scurry** = to bustle
