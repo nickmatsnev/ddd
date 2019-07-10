@@ -17,7 +17,7 @@ This snippet will help you create a progress bar indicating reading progress. Yo
 
 ## CSS
 
-```css
+```CSS
 #reading {
     height: .25rem;
     position: fixed;

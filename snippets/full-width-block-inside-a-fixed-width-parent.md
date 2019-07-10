@@ -11,7 +11,7 @@ This snippet makes it possible to create full-width blocks inside a parent that 
 
 ## CSS
 
-```css
+```CSS
 .full {
   width: 100vw;
   margin-left: 50%;
