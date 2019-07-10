@@ -1,14 +1,14 @@
 ---
 title: The Subtle Art of Not Giving a Fuck
 date: 2018-09-14
-lastmod: 2019-07-05
+lastmod: 2019-07-10
 tags: [Learn English]
 featured_image: subtleart_cover.png
-summary: I have read this bestseller from Mark Manson, and, apart from new points of view, there are a lot of new words worth learning.
+summary: I have read this bestseller from Mark Manson and in addition to new ideas there were a lot of new words.
 scripts: [relative_date.js]
 ---
 
-I have read this bestseller from Mark Manson, and, apart from new points of view, there are a lot of new words worth learning.
+I have read this bestseller from Mark Manson and in addition to new ideas there were a lot of new words.
 
 - **a deception** = a lie
 - **an abundance** = plenty, excess, very large quantity of something
@@ -16,17 +16,17 @@ I have read this bestseller from Mark Manson, and, apart from new points of view
 - **meticulously** = thoroughly
 - **a repercussion** = a consequence, outcome, aftermath
 - **a bluntness** = a directness, straightforwardness
-- **replete** = filled, full, packed, crowded
-- **to propel** = to move, push, drive, cause moving in a particular direction, typically forward
-- **menial** = unskilled, low, lacking prestige
+- **replete** = filled, full, crowded
+- **to propel** = to move, push, drive in a particular direction, typically forward
+- **menial** = unskilled, low, lacking prestige (e.g. job)
 - **to perplex** = to cause someone to feel completely puzzled
 - **a harness** = a set of straps and fittings by which a horse or other draft animal is fastened to a cart, plow and is controlled by the driver
-- **grueling** = exhausting, tiring, fatiguing
-- **to beckon** = to attract, call up, make a gesture with the hand, arm, or head to encourage someone to come nearer or follow
+- **grueling** = exhausting, tiring
+- **to beckon** = to attract, call up; make a gesture with the hand, arm, or head to encourage someone to come nearer or follow
 - **a relish** = a great enjoyment
-- **to chuckle** = to laugh quietly or inwardly
+- **to chuckle** = to laugh quietly
 - **unfazed** = calm
-- **gruesome** = horrifying, frightful, disgusting
+- **gruesome** = horrifying, disgusting
 - **a tedium** = boredom, monotony
 - **awe** = a wonder, admiration, thrill
 - **dismal** = gloomy, bleak, depressing
@@ -41,7 +41,7 @@ I have read this bestseller from Mark Manson, and, apart from new points of view
 - **susceptible** = open to, vulnerable to, an easy target for something
 - **despair** = hopelessness, discouragement
 - **rebuffed** = rejected
-- **a martyr** = a person who is killed because of their religious or other beliefs
+- **a martyr** = a person who is killed because of his / her religion or beliefs
 - **to relinquish** = to refuse, deny, give up
 - **to budge** = to move slightly
 - **a harbinger** = a person or thing that announces or signals the approach of another
@@ -58,7 +58,7 @@ I have read this bestseller from Mark Manson, and, apart from new points of view
 - **to devour** = to eat hungrily
 - **a hindrance** = an obstacle, barrier, impediment
 - **a hindsight** = an understanding of a situation or event only after it has happened or developed
-- **to resent** = to feel bitter about something, rebel
+- **to resent** = to feel bitter about something
 - **deliberately** = consciously
 - **vain** = producing no result, useless
 - **profound** = great, wise, deep, thorough
@@ -89,7 +89,7 @@ I have read this bestseller from Mark Manson, and, apart from new points of view
 - **to exacerbate** = to worsen, sharpen (problem)
 - **an inundation** = an overwhelming abundance of people or things, flooding
 - **pervasive** = spreading widely throughout an area or a group of people (especially of an unwelcome influence or physical effect)
-- **amok** = uncontrollably and disruptively, furiously, madly
+- **amok** = uncontrollably and disruptively; furiously, madly
 - **insurmountable** = too great to be overcome
 - **to construe** = to interpret, understand
 - **inferior** = lower in status, low, worse
@@ -109,12 +109,12 @@ I have read this bestseller from Mark Manson, and, apart from new points of view
 - **bogus** = fake, counterfeit, fraudulent
 - **to admonish** = to warn or reprimand someone firmly
 - **obnoxious** = unpleasant, distasteful, offensive
-- **to alleviate** = to ease, make (suffering, deficiency, or a problem) less severe
+- **to alleviate** = to ease, make suffering, deficiency, or a problem less severe
 - **to attain** = to achieve
 - **eerily** = in a strange and frightening manner
 - **a commandment** = a divine rule, especially one of the Ten Commandments
 - **to delude** = to mislead, misinform
-- **to bestow** = to confer or present (an honor, right, or gift)
+- **to bestow** = to confer or present (e.g. right or gift)
 - **a stink** = a strong unpleasant smell
 - **to coddle** = to pumper
 - **an equilibrium** = a balance
@@ -123,7 +123,7 @@ I have read this bestseller from Mark Manson, and, apart from new points of view
 - **inherent** = existing in something as a permanent, essential, or characteristic attribute
 - **a tenet** = a principle, belief, doctrine
 - **a viability** = an ability to survive or live successfully
-- **a brink** = an edge, verge (of land before a steep or vertical slope)
+- **a brink** = an edge, verge
 - **a decay** = a state or process of rotting or decomposition
 - **to discard** = to get rid of, throw away
 - **a bum** = a homeless man
@@ -153,7 +153,7 @@ I have read this bestseller from Mark Manson, and, apart from new points of view
 - **a booze** = alcohol, especially hard liquor
 - **depraved** = morally corrupt, wicked
 - **crude** = raw, primitive, simple, vulgar, rude
-- **a deadbeat** = a person who tries to evade paying debts
+- **a deadbeat** = a person who tries to avoid paying debts
 - **a cheapskate** = somebody who buys cheap in favor of higher quality or better stuff
 - **a lout** = a hooligan, thug, barbarian, an aggressive man or boy
 - **fleeting** = brief, short, lasting for a very short time, quick
@@ -179,7 +179,7 @@ I have read this bestseller from Mark Manson, and, apart from new points of view
 - **an autopsy** = a postmortem examination to discover the cause of death or the extent of disease
 - **to gnaw** = to bite at or nibble something persistently
 - **akin to** = similar to, like something
-- **to hone** = to refine or perfect (something) over time
+- **to hone** = to refine or perfect something over time
 - **a tryst** = a date, private, romantic rendezvous between lovers
 - **to diminish** = to lessen, decrease, reduce
 - **to forfeit** = to lose something as a penalty for wrongdoing or neglect
