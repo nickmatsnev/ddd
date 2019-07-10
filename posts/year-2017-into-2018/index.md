@@ -1,18 +1,18 @@
 ---
 title: Year 2017 into 2018
 date: 2017-12-31
-lastmod: 2019-07-05
+lastmod: 2019-07-10
 tags: [Life]
 featured_image: santa_claus.png
-summary: This is the first post summarizing what I felt I accomplished throughout the year and some of my goals for the year to come. 
+summary: This is the first post where I summarize everything that happened to me during the year.
 scripts: [relative_date.js]
 ---
 
-This is the first post summarizing what I felt I accomplished throughout the year and some of my goals for the year to come. It’ll help me gradually follow the progress chain.
+This is the first post where I summarize everything that happened to me during the year.
 
 ## I visited 13 cities
 
-This year I happened to travel around Russia and Belarus, visiting both small and big cities. Large ones are:
+This year I travelled around Russia and Belarus a lot. There are large cities I visited:
 
 1.  Saint Petersburg, Russia
 2.  Pskov, Russia
@@ -79,5 +79,3 @@ This year I happened to travel around Russia and Belarus, visiting both small an
 - Started to learn cryptography.
 - Walked with an excursion around Moscow **3** times.
 - Went to the swimming pool several times.
-
-Looking forward to the new year and great achievements coming. Happy New Year!
