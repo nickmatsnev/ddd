@@ -2,7 +2,7 @@
 title: Reverse a Positive Number
 date: 2019-02-18 
 languages: [C#]
-scripts: [relative_date.js]
+scripts: [relative_date.js, code_selector.js]
 styles: [prism.css]
 description: Write a function that receives the number x and prints it, “unfolding” its digits in the reverse order.
 ---
