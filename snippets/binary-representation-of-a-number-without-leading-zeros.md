@@ -4,17 +4,17 @@ date: 2018-12-27
 languages: [C#]
 scripts: [relative_date.js, code_selector.js]
 styles: [prism.css]
-description: We need to output number binary representation without leading zeros.
+description: We need to output number's binary representation without leading zeros.
 ---
  
 ## Task
 
-We need to output `number` binary representation without leading zeros.
+We need to output number's binary representation without leading zeros.
 
 | Input | Output |
 | :---- | :----- |
 | 5     | 101    |
-| 55    | 103    |
+| 55    | 110111 |
 | 103   | 1100111|
 
 ## Code
@@ -31,7 +31,7 @@ for (int i = 15; i >= 0; i--)
 Console.ReadKey();
 ```
 
-Or you can either use `Marshal.SizeOf()` function so that you don’t have to depend on the variable size. We multiply the result by 8 to get the number of bits. You should also add `using System.Runtime.InteropServices`.
+In order to deal with different variable types consider using `Marshal.SizeOf()` function from the `System.Runtime.InteropServices` namespace:
 
 ```csharp
 short number = short.Parse(Console.ReadLine());
@@ -47,8 +47,4 @@ Console.ReadKey();
 
 ## Algorithm
 
-Due to the fact that comparing a number that contains only zeros with the `0xFF` mask will give us **0**, we can use it this task.
-
-1.  Shift the `number` to the right by **15, 14..0** places in the loop from **15** to **0** (size of `short`) or calculate it dynamically.
-2.  Apply the `0xFF` mask.
-3.  If the result of the comparison is non-zero, output the value of this bit.
+The bitwise AND of a number and 0xFF mask has the result 0 only if this number is zero. In the first iteration we deal with the leftmost bit of the given number. If this bit is set to 0, then we skip it. We continue to skip all the bits until the first positive one is found (00 & 0xFF == 0, 000 & 0xFF == 0, but 0001 & 0xFF != 0). All bits after will be printed.
