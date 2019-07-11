@@ -1,6 +1,6 @@
 ---
 title: Binary Representation of a Number Without Leading Zeros
-date: 2018-12-27
+date: 2019-07-11
 languages: [C#]
 scripts: [relative_date.js, code_selector.js]
 styles: [prism.css]
