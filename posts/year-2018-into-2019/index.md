@@ -5,7 +5,7 @@ lastmod: 2019-07-10
 tags: [Life]
 featured_image: fireworks.png
 summary: 2018 is at its end, and now I want to list all the important things that happened in the past year. 
-scripts: [relative_date.js]
+scripts: [relative_date.js, anchor.js]
 ---
 
 2018 is at its end, and now I want to list all the important things that happened in the past year. I wrote a [similar post](//kottsov.com/posts/year-2017-into-2018/) in 2017, and I want to continue this tradition.

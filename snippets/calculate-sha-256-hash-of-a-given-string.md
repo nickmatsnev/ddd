@@ -2,7 +2,7 @@
 title: Calculate SHA-256 Hash of a Given String
 date: 2019-07-11
 languages: [JavaScript]
-scripts: [relative_date.js, code_selector.js]
+scripts: [relative_date.js, code_selector.js, anchor.js]
 styles: [prism.css]
 description: This snippet uses SubtleCrypto interface to calculate SHA-256 hash of a given string.
 ---

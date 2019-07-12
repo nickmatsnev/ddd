@@ -5,7 +5,7 @@ lastmod: 2019-07-08
 tags: [Learn English]
 featured_image: mr_robot_folder.png
 summary: I am into learning English and, thanks to modern technologies, we have a lot of ways to do it. One of them is to watch films and serials, where the actors’ mother tongue is English.
-scripts: [relative_date.js]
+scripts: [relative_date.js, anchor.js]
 ---
 
 I am into learning English and, thanks to modern technologies, we have a lot of ways to do it. One of them is to watch films and serials, where the actors’ mother tongue is English. I have entirely watched Mr. Robot and now I want to share some words, expressions, and phrases that were new to me.

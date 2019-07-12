@@ -5,7 +5,7 @@ lastmod: 2019-07-10
 tags: [Life]
 featured_image: santa_claus.png
 summary: This is the first post where I summarize everything that happened to me during the year.
-scripts: [relative_date.js]
+scripts: [relative_date.js, anchor.js]
 ---
 
 This is the first post where I summarize everything that happened to me during the year.
