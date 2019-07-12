@@ -1,7 +1,7 @@
 ---
 title: Year 2017 into 2018
 date: 2017-12-31
-lastmod: 2019-07-10
+lastmod: 2019-07-12
 tags: [Life]
 featured_image: santa_claus.png
 summary: This is the first post where I summarize everything that happened to me during the year.
@@ -12,7 +12,7 @@ This is the first post where I summarize everything that happened to me during t
 
 ## I visited 13 cities
 
-This year I travelled around Russia and Belarus a lot. There are large cities I visited:
+This year I traveled around Russia and Belarus a lot. There are large cities I visited:
 
 1.  Saint Petersburg, Russia
 2.  Pskov, Russia
