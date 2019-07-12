@@ -5,7 +5,6 @@ lastmod: 2019-07-08
 tags: [Learn English]
 featured_image: lisa2.png
 summary: Here I’d like to share the words and expressions I’ve found out reading the article about Steve Jobs’ daughter Lisa.
-scripts: [relative_date.js]
 ---
 
 Here I’d like to share the words and expressions I’ve found out reading [the article](//www.vanityfair.com/news/2018/08/lisa-brennan-jobs-small-fry-steve-jobs-daughter) about Steve Jobs’ daughter Lisa.

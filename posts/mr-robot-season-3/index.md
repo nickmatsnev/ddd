@@ -5,7 +5,6 @@ lastmod: 2019-07-10
 tags: [Learn English]
 featured_image: mr_robot_folder.png
 summary: Season 3 is the end by now, meaning that it is the last post with words and expressions discovered and picked up from Mr. Robot TV show.
-scripts: [relative_date.js, anchor.js]
 ---
 
 Season 3 is the end by now, meaning that it is the last post with words and expressions discovered and picked up from Mr. Robot TV show.

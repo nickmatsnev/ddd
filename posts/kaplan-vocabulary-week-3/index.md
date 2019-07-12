@@ -5,7 +5,6 @@ lastmod: 2019-07-08
 tags: [Learn English]
 featured_image: kaplan_logo.png
 summary: Week 3 at Kaplan Empire State is gone and it is the last part of word and expressions I’ve learned.
-scripts: [relative_date.js]
 ---
 
 Week 3 at Kaplan Empire State is gone and it is the last part of word and expressions I’ve learned.

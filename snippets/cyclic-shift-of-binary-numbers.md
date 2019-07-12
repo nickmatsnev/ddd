@@ -2,8 +2,6 @@
 title: Cyclic Shift of Binary Numbers
 date: 2019-01-19
 languages: [C#]
-scripts: [relative_date.js, code_selector.js, anchor.js]
-styles: [prism.css]
 description: We need to output the binary representation of the final number after cyclic shifting the number by shiftOffset places to the right.
 ---
 

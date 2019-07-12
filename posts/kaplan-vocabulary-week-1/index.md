@@ -5,7 +5,6 @@ lastmod: 2019-07-08
 tags: [Learn English]
 featured_image: kaplan_logo.png
 summary: Week at Kaplan International NYC has successfully passed and I’d like to share some words and expressions I’ve come across.
-scripts: [relative_date.js]
 ---
 
 Week at Kaplan International NYC has successfully passed and I’d like to share some words and expressions I’ve come across. So here are they:

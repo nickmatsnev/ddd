@@ -2,8 +2,6 @@
 title: Reading Progress Bar
 date: 2019-04-13
 languages: [HTML, CSS, JavaScript]
-scripts: [relative_date.js, code_selector.js, anchor.js]
-styles: [prism.css]
 description: This snippet will help you create a progress bar indicating reading progress.
 ---
 

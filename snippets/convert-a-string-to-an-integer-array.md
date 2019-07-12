@@ -2,8 +2,6 @@
 title: Convert a String to an Integer Array
 date: 2019-07-12
 languages: [C#]
-scripts: [relative_date.js, code_selector.js, anchor.js]
-styles: [prism.css]
 description: Convert a string of space-delimited numbers to an integer array.
 ---
 

@@ -2,8 +2,6 @@
 title: Binary Representation of a Number Without Leading Zeros
 date: 2019-07-11
 languages: [C#]
-scripts: [relative_date.js, code_selector.js, anchor.js]
-styles: [prism.css]
 description: We need to output number's binary representation without leading zeros.
 ---
  

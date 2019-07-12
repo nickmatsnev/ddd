@@ -5,7 +5,6 @@ tags: [News]
 draft: true
 featured_image: logo.png
 summary: This update addresses a few big changes and several minor improvements.
-scripts: [relative_date.js, anchor.js]
 ---
 
 ## Update 2.7.3
