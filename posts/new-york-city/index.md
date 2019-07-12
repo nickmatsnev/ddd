@@ -1,7 +1,7 @@
 ---
 title: New York City
 date: 2018-09-15
-lastmod: 2019-07-10
+lastmod: 2019-07-12
 tags: [Life]
 featured_image: nyc_vector.png 
 summary: I’ve been to New York this summer, and in this post I want to share my notes and photos of this famous city.
@@ -22,7 +22,7 @@ There are several options to see the Statue of Liberty. If you don’t want to g
 
 {{< image class="zoom-in full-size" src="nyc_statue_of_liberty.jpg" >}}
 
-I have heard several times that NYC Subway is too complicated and difficult to ride. It is no longer true, as there is a mobile app that helps you build routes. It will tell you what trains you should take, what the hours of operation are, how many changes you'll have to make during the ride.
+I have heard several times that the subway in New York is too complicated and difficult to ride. It is no longer true, as there is a mobile app that helps you build routes. It will tell you what trains you should take, what the hours of operation are, how many changes you'll have to make during the ride.
 
 {{< image class="zoom-in full-size" src="nyc_subway_entrance.jpg" >}}
 
@@ -30,7 +30,7 @@ The next place to discover was the World Trade Center, that is especially beauti
 
 {{< image class="zoom-in full-size" src="nyc_oculus.jpg" >}}
 
-New York is known for its skyscrapers. In addition to admiring their height and beauty from the ground it is worth visiting observation decks that all famous skyscrapers have. I haven't been to any of them, because the language school I attended had this admiring view of the city.
+New York is known for its skyscrapers. In addition to admiring their height and beauty from the ground, it is worth visiting observation decks that all famous skyscrapers have. I haven't been to any of them, because the language school I attended had this admiring view of the city.
 
 {{< image class="zoom-in full-size" src="nyc_esb_view.jpg" >}}
 
@@ -50,7 +50,7 @@ There are more than 38K policemen in NYC, so you're likely to see them wherever 
 
 {{< image class="zoom-in full-size" src="nyc_police_car.jpg" >}}
 
-In Manhattan you often hear siren sounds.
+You often hear siren sounds in Manhattan.
 
 {{< image class="zoom-in full-size" src="nyc_firefighters.jpg" >}}
 
