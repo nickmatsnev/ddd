@@ -1,14 +1,14 @@
 ---
 title: "Year 2018 into 2019"
 date: 2018-12-31
-lastmod: 2019-07-10
+lastmod: 2019-07-12
 tags: [Life]
 featured_image: fireworks.png
 summary: 2018 is at its end, and now I want to list all the important things that happened in the past year. 
 scripts: [relative_date.js, anchor.js]
 ---
 
-2018 is at its end, and now I want to list all the important things that happened in the past year. I wrote a [similar post](//kottsov.com/posts/year-2017-into-2018/) in 2017, and I want to continue this tradition.
+2018 is at its end, and now I want to mention all the important things that happened in the past year. I wrote a [similar post](//kottsov.com/posts/year-2017-into-2018/) in 2017, and I want to continue this tradition.
 
 ## I read <span style="color: var(--main_accent);">23</span> books
 
@@ -42,7 +42,7 @@ This year I enjoyed such artists as Luna, Illumate, Markul, STED.D, Lumen, Pyrok
 
 ## Videos
 
-Speaking about serials, I have entirely watched Mr. Robot this year. I haven’t watched a lot of films and serials because I spent the vast majority of my free time on YouTube learning web development. I also want to mention some YouTube authors I discovered:
+As for the serials, I have entirely watched Mr. Robot this year. I haven’t watched a lot of films and serials because I spent the vast majority of my free time on YouTube learning web development. I also want to mention some YouTube authors I discovered:
 
 - [The Coding Train](//www.youtube.com/user/shiffman)
 - [Marques Brownlee](//www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ)
@@ -66,7 +66,7 @@ The following websites helped me learn web development:
 
 ## LinguaRead
 
-This summer I have presented my school project called [LinguaRead](//kottsov.com/projects/linguaread/). I learned a lot about Android and Java to be able to create this application. I experienced a lot of problems reading electronic books on my smartphone, because I found it difficult to translate and save unknown words.
+This summer I have presented my school project called [LinguaRead](//kottsov.com/projects/linguaread/). I learned a lot about Android and Java to be able to create this application. I experienced a lot of problems reading electronic books on my smartphone because I found it difficult to translate and save unknown words.
 
 With this new application, it is easy to get the translation of a word I don’t know. Now I can put it in my personal vocabulary and learn it in the future.
 
