@@ -6,6 +6,7 @@ tags: [News]
 featured_image: rocket_icon.png
 summary: This post is the initial point from where this website begins. I have completely reinvented my personal website.
 scripts: [medium-zoom.min.js, relative_date.js, anchor.js]
+styles: [medium-zoom.css]
 ---
 
 This post is the initial point from where this website begins. I have completely reinvented my personal website. The previous one wasn’t ideal, so I made up my mind to relaunch it with a new design. I got rid of everything I thought was complicated or useless.
