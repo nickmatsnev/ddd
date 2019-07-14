@@ -1,6 +1,6 @@
 ---
 title: Binary Representation of a Number Without Leading Zeros
-date: 2019-07-11
+date: 2019-07-14
 languages: [C#]
 description: We need to output number's binary representation without leading zeros.
 ---
