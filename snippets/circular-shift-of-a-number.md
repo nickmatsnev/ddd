@@ -1,6 +1,7 @@
 ---
 title: Circular Shift of a Number
 date: 2019-07-14
+draft: true
 languages: [C#]
 description: We need to output the binary representation of the number that was circularly shifted to the right.
 ---
