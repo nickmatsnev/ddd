@@ -38,11 +38,11 @@ Console.ReadKey();
 
 ## Algorithm
 
-1. Shift the number and put the result in the `shiftedNumber` variable. If we look at `shiftedNumber`'s binary representation, we'll notice that first `shiftOffset` number of bits will be set to 0. Indeed:    
+1. Shift the number and put the result in the `shiftedNumber` variable. If we look at `shiftedNumber`'s binary representation, we'll notice that first `shiftOffset` number of bits will be set to 0. Indeed:<br><br>
 100 >> 1 -> 010  
 111 >> 1 -> 011  
 10111 >> 2 -> 00101
-2. During the shift in step 1, we have lost the `shiftOffset` number of bits as they got shifted out on the right end. To make our shift circular we have to get them back in the final number. To achieve this, we move the given number to the left so that the `rightDroppedBits` contains only bits that were lost in the previous step.  
+2. During the shift in step 1, we have lost the `shiftOffset` number of bits as they got shifted out on the right end. To make our shift circular we have to get them back in the final number. To achieve this, we move the given number to the left so that the `rightDroppedBits` contains only bits that were lost in the previous step.<br>
 For example, if we shift 1000011 to the right by 3 places, we lose 011. To save them, we have to turn 1000011 into 011. In order to achieve this we shift the given number to the left by 7 - 3 = 4 places.
 3. To get the final number we combine the shifted number's binary representation with the bits that were dropped. To do this we apply bitwise OR on `shiftedNumber` and `rightDroppedBits`. After it, the zero bits we got in step 1 will be replaced by the dropped bits, others will stay intact.
 4. Output the final number's binary representation.
