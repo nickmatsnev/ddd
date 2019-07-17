@@ -1,13 +1,13 @@
 ---
 title: Reverse a Positive Number
-date: 2019-05-04
+date: 2019-07-17
 languages: [Python]
-description: This short snippet will help you reverse any number you are given.
+description: This short snippet will help you reverse given number.
 ---
 
 ## Task
 
-This short snippet will help you reverse any number you are given. It converts the number to a string, writes it backward and converts to a number again.
+This short snippet will help you reverse given number. It converts the number to a string, writes it backward and converts to a number again.
 
 | Input | Output |
 | :---- | :----- |
@@ -20,14 +20,15 @@ def reverse(x):
   return int(str(x)[::-1]);
 ```
 
-Or a pure integer implementation:
+Without using strings:
 
 ```python
 def reverse(x): 
   output = 0
 
   while x > 0:
-    output = x % 10 + output * 10
+    lastDigit = x % 10
+    output = output * 10 + lastDigit
     x //= 10
 
   return output
