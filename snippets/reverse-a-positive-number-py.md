@@ -18,8 +18,8 @@ This short snippet will help you reverse given number. It converts the number to
 
 ```python
 def reverse(x):
-  if x < 0:
-    raise Exception("The given number should be non-negative")
+  if not x.isdigit():
+    raise Exception("Invalid input")
   return int(str(x)[::-1])
 ```
 
@@ -27,8 +27,8 @@ Without using strings:
 
 ```python
 def reverse(x): 
-  if x < 0:
-    raise Exception("The given number should be non-negative")
+  if not x.isdigit():
+    raise Exception("Invalid input")
   output = 0
 
   while x > 0:
