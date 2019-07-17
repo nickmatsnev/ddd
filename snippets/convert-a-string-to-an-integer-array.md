@@ -9,6 +9,10 @@ description: Convert a string of space-delimited numbers to an integer array.
 
 Convert a string of space-delimited numbers to an integer array.
 
+| Input     | Output       |
+| :-------- | :----------- |
+| "1 2 3 4" | [1, 2, 3, 4] |
+
 ## Code
 
 ```csharp
