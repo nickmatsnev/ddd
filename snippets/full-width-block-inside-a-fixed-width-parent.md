@@ -1,12 +1,12 @@
 ---
 title: Full-Width Block Inside a Fixed-Width Parent
-date: 2019-04-13
+date: 2019-07-17
 languages: [CSS]
 labels: [Production ready]
-description: This snippet makes it possible to create full-width blocks inside a parent that has fixed width
+description: This snippet will help you create a full-width block inside a parent that has fixed width.
 ---
 
-This snippet makes it possible to create full-width blocks inside a parent that has fixed width (e.g. content wrapper and full-width image inside it).
+This snippet will help you create a full-width block inside a parent that has fixed width (e.g. content wrapper and full-width image inside it).
 
 ## CSS
 
@@ -18,4 +18,4 @@ This snippet makes it possible to create full-width blocks inside a parent that 
 }
 ```
 
-Thanks to [Andy Bell](//andy-bell.design/wrote/creating-a-full-bleed-css-utility/).
+By [Andy Bell](//andy-bell.design/wrote/creating-a-full-bleed-css-utility/).
