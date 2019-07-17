@@ -1,11 +1,12 @@
 ---
 title: Reading Progress Bar
 date: 2019-04-13
+draft: true
 languages: [HTML, CSS, JavaScript]
-description: This snippet will help you create a progress bar indicating reading progress.
+description: This snippet will help you create a reading progress bar.
 ---
 
-This snippet will help you create a progress bar indicating reading progress. You can see them while reading posts on different websites.
+This snippet will help you create a reading progress bar. They usually indicate the user's scroll position inside a contentful block.
 
 ## HTML
 
@@ -29,13 +30,9 @@ This snippet will help you create a progress bar indicating reading progress. Yo
 ## JavaScript
 
 ```javascript
-var main, bar;
-
-// declare vars once so that they are not redefined every scroll event
-document.addEventListener("DOMContentLoaded", () => {
-    main = document.querySelector("main"); // locate here your content element to count progress in
-    bar = document.getElementById("reading");
-});
+// locate here your contentful element
+const main = document.querySelector("main");
+const bar = document.getElementById("reading");
 
 window.addEventListener("scroll", () => {
     let top = main.getBoundingClientRect().top + window.scrollY; // find where content element starts
