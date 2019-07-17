@@ -2,6 +2,7 @@
 title: Reverse a Positive Number
 date: 2019-07-17
 languages: [Python]
+labels: [Production ready]
 description: This short snippet will help you reverse given number.
 ---
 
@@ -17,13 +18,17 @@ This short snippet will help you reverse given number. It converts the number to
 
 ```python
 def reverse(x):
-  return int(str(x)[::-1]);
+  if x < 0:
+    raise Exception("The given number should be non-negative")
+  return int(str(x)[::-1])
 ```
 
 Without using strings:
 
 ```python
 def reverse(x): 
+  if x < 0:
+    raise Exception("The given number should be non-negative")
   output = 0
 
   while x > 0:
