@@ -1,13 +1,13 @@
 ---
 title: Reverse a Positive Number
-date: 2019-02-18 
+date: 2019-07-17
 languages: [C#]
-description: Write a function that receives the number x and prints it, “unfolding” its digits in the reverse order.
+description: Write a function to reverse a given number.
 ---
 
 ## Task
 
-Write a function that receives the number `x` and prints it, “unfolding” its digits in the reverse order.
+Write a function to reverse a given number.
 
 | Input | Output |
 | :---- | :----- |
@@ -30,8 +30,3 @@ static uint ReverseInteger(uint x)
 	return output;
 }
 ```
-
-## Algorithm
-1. Get `x`.
-2. Add the last digit of the number `x` to the rightmost digit of the number `output`, which is empty after multiplying by **10**.
-3. Divide the number `x` by **10**, getting rid of the last digit.
