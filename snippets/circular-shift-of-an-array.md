@@ -9,6 +9,11 @@ description: Write a function that cicrularly shifts a given array.
 
 Write a function that circularly shifts a given array of `k` elements to the right. Do not use an additional array.
 
+| Input                          | Output             |
+| :----------------------------- | :----------------- |
+| arr = [1, 2, 3, 4, 5]<br>k = 1 | [5, 1, 2, 3, 4]    |
+| arr = [1, 2, 3, 4, 5]<br>k = 2 | [4, 5, 1, 2, 3]    |
+
 ## Code
 
 ```csharp
