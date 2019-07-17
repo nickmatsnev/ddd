@@ -31,12 +31,14 @@ sha256("Hello").then(hash => console.log(hash));
 
 ### Algorithm
 
-How `bufferToHex` function works:
+How `bufferToHex` function works:  
+
 1. Convert buffer to an array.
 2. Convert each `x` element in an array to a hex string (e.g. `12` becomes `c`).
 3. Pad every converted element with zeros (e.g. `c` becomes `0c`).
 4. Take all of the hex values and join them into a single string.
 
 How `sha256` function works:
+
 1. Create a buffer from the given text.
 2. Call `crypto.subtle.digest` function with required parameters. After the returned Promise is resolved, convert the resulting buffer to a hex string.
