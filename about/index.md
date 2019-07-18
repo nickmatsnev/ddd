@@ -18,10 +18,10 @@ Here are the skills I got while developing various apps and programs.
 **Web Frontend**  
 HTML5, CSS3 / SCSS, JavaScript
 
-**Web Backend**
+**Web Backend**  
 PHP
 
-**Other**
+**Other**  
 C#, Java, Python
 
 ### Frameworks?
@@ -42,5 +42,5 @@ Laptop: Acer ASPIRE V3-571G
 Hosting provider: [Fozzy](//accounts.fozzy.com/aff.php?aff=8823)  
 Editor: [VSCode](//code.visualstudio.com)  
 Music: [Yandex.Music](//music.yandex.com)  
-Messaging: [Telegram](//telegram.org)
+Messaging: [Telegram](//telegram.org)  
 Static Site Generator: [Hugo](//gohugo.io)
