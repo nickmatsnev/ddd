@@ -37,7 +37,7 @@ Console.ReadKey();
 
 ## Algorithm
 
-***Note**: since we deal with the `ushort` variables, even small numbers will have two-byte binary represtantion (many leading zeros).
+***Note**: since we deal with the `ushort` variables, even small numbers will have two-byte binary representation (many leading zeros).
 
 1. Shift the number and put the result in the `shiftedNumber` variable. If we look at `shiftedNumber`'s binary representation, we'll notice that first `shiftOffset` number of bits will be set to 0. Indeed:  
 100 >> 1 -> 010  
