@@ -8,7 +8,7 @@ description: This short snippet will help you reverse given number.
 
 ## Task
 
-This short snippet will help you reverse given number. It converts the number to a string, writes it backward and converts to a number again.
+This short snippet will help you reverse the given number. It converts the number to a string, writes it backward and converts to a number again.
 
 | Input | Output |
 | :---- | :----- |

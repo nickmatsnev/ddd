@@ -38,7 +38,7 @@ static void Shift(int[] arr, int k)
 
 I am going to use recursion, so the first thing I should do is create a condition under which the recursion will stop. Then while `k` is greater than 0 (means we haven't shifted the array `k` times):
 
-1. Remember the last element of the array in the `temp` variable in order to make shift circular.
+1. Remember the last element of the array in the `temp` variable to make our shift circular.
 2. Move the array to the right by **1** element (every execution of the shift function will move all array elements to the right by one position). Moving array to the right means that we assign each element the value of the previous one.
 3. Assign the value of the last element to the first one.
 4. Execute the algorithm recursively until the value of `k` becomes zero.

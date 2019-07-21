@@ -23,7 +23,7 @@ const sha256 = text => {
 };
 ```
 
-Once declared, you can use the above functions as following:
+Once declared, you can use the above functions as follows:
 
 ```javascript
 sha256("Hello").then(hash => console.log(hash));

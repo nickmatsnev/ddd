@@ -34,4 +34,4 @@ Console.ReadKey();
 
 ## Algorithm
 
-The bitwise AND of a number and 0xFF mask has the result 0 only if this number is zero. In the first iteration we deal with the leftmost bit of the given number. If this bit is set to 0, then we skip it. We continue to skip all the bits until the first positive one is found (00 & 0xFF == 0, 000 & 0xFF == 0, but 0001 & 0xFF != 0). All bits going after will be printed.
+The bitwise AND of a number and 0xFF mask has the result 0 only if this number is zero. In the first iteration, we deal with the leftmost bit of the given number. If this bit is set to 0, then we skip it. We continue to skip all the bits until the first positive one is found (00 & 0xFF == 0, 000 & 0xFF == 0, but 0001 & 0xFF != 0). All bits going after will be printed.

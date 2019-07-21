@@ -7,7 +7,7 @@ description: Write a function to reverse a given number.
 
 ## Task
 
-Write a function to reverse a given number.
+Write a function to reverse the given number.
 
 | Input | Output |
 | :---- | :----- |
