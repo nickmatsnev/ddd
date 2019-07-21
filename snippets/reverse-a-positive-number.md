@@ -15,6 +15,7 @@ Write a function to reverse a given number.
 
 ## Code
 
+{{< code-header name="main.cs" >}}
 ```csharp
 static uint ReverseInteger(uint x) 
 {

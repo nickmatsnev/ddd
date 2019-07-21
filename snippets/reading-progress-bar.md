@@ -10,12 +10,14 @@ This snippet will help you create a reading progress bar. They usually indicate 
 
 ## HTML
 
+{{< code-header name="index.html" >}}
 ```html
 <progress id="reading"></progress>
 ```
 
 ## CSS
 
+{{< code-header name="style.css" >}}
 ```CSS
 #reading {
     height: .25rem;
@@ -29,6 +31,7 @@ This snippet will help you create a reading progress bar. They usually indicate 
 
 ## JavaScript
 
+{{< code-header name="script.js" >}}
 ```javascript
 // locate here your contentful element
 const main = document.querySelector("main");

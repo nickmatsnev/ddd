@@ -17,6 +17,7 @@ We need to output number's binary representation without leading zeros.
 
 ## Code
 
+{{< code-header name="main.cs" run="//repl.it/@kottsovcom/Binary-Representation-of-a-Number-Without-Leading-Zeros" >}}
 ```csharp
 int number = int.Parse(Console.ReadLine());
 // Get the size of number variable (number of bits)

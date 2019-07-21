@@ -9,6 +9,7 @@ This snippet uses SubtleCrypto interface to calculate SHA-256 hash of a given st
 
 ## Code
 
+{{< code-header name="sha256.js" >}}
 ```javascript
 const bufferToHex = buffer => {
     return [...new Uint8Array(buffer)]
@@ -22,7 +23,7 @@ const sha256 = text => {
 };
 ```
 
-Example:
+Once declared, you can use the above functions as following:
 
 ```javascript
 sha256("Hello").then(hash => console.log(hash));

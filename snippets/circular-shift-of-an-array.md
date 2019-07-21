@@ -16,6 +16,7 @@ Write a function that circularly shifts a given array of `k` elements to the rig
 
 ## Code
 
+{{< code-header name="main.cs" >}}
 ```csharp
 static void Shift(int[] arr, int k)
 {

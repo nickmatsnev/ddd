@@ -15,6 +15,7 @@ Convert a string of space-delimited numbers to an integer array.
 
 ## Code
 
+{{< code-header name="main.cs" >}}
 ```csharp
 static int[] parseNumbers(string input)
 {

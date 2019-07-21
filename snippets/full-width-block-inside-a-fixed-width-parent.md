@@ -10,6 +10,7 @@ This snippet will help you create a full-width block inside a parent that has fi
 
 ## CSS
 
+{{< code-header name="style.css" >}}
 ```CSS
 .full {
   width: 100vw;

@@ -20,6 +20,7 @@ And if we make one more circular shift by **2** places the result will be the fo
 
 ## Code
 
+{{< code-header name="main.cs" run="//repl.it/@kottsovcom/Circular-Shift-of-a-Number" >}}
 ```csharp
 ushort number = ushort.Parse(Console.ReadLine());
 ushort shiftOffset = ushort.Parse(Console.ReadLine());

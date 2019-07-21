@@ -16,6 +16,7 @@ This short snippet will help you reverse given number. It converts the number to
 
 ## Code
 
+{{< code-header name="index.py" >}}
 ```python
 def reverse(x):
   if not x.isdigit():
@@ -25,6 +26,7 @@ def reverse(x):
 
 Without using strings:
 
+{{< code-header name="index.py" >}}
 ```python
 def reverse(x): 
   if not x.isdigit():
