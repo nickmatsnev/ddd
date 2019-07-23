@@ -199,8 +199,8 @@ I am into learning English and, thanks to modern technologies, we have a lot of 
 - [to haul](#to-haul)
 - **to partake** = to take part in something
 - **a nod** = an action of lowering and raising the head as a signal of understanding
-- **tad** = bit, little + _adjective;_  
-    _It’ll be tad uncomfortable = It’ll be a bit uncomfortable._
+- **tad** = bit, little + _adjective_  
+_It’ll be tad uncomfortable = It’ll be a bit uncomfortable._
 - **a villain** = criminal, a character who does evil
 - **a slumber** = sleep, dream, nap
 - an overlord
@@ -224,8 +224,8 @@ I am into learning English and, thanks to modern technologies, we have a lot of 
 - **to sentence** = to declare the punishment
 - **to get square with someone** = to agree with someone, to match, to pay off
 - **a tag line** = slogan, catchphrase or a punchline of a joke
-- **all of a sudden** = very quickly;  
-    _It seemed to happen all of a sudden._
+- **all of a sudden** = very quickly  
+_It seemed to happen all of a sudden._
 - **a glutton** = an excessively greedy eater, cormorant
 - **urges** = a strong desire or impulse
 - **a scrutiny** = an examination, inspection, research, investigation
@@ -239,8 +239,8 @@ I am into learning English and, thanks to modern technologies, we have a lot of 
 - **a fallout** = the adverse side effects or results of a situation
 - to roll up one’s sleeves
 - **a vault** = a large room or chamber used for storage (underground)
-- **of all people** = the only one, the most or least suitable person to do something;  
-    _You of all people should know how to deal with this._
+- **of all people** = the only one, the most or least suitable person to do something  
+_You of all people should know how to deal with this._
 - **a funeral** = ceremonies honoring a dead person, typically involving burial or cremation
 - **a labor** = a childbirth
 - **a palm print** = a scan of palm region of the hand
@@ -399,8 +399,8 @@ I am into learning English and, thanks to modern technologies, we have a lot of 
 - **a mishap** = an unlucky accident
 - **to confront with something** = to face something
 - to be on track
-- **to reconcile** = to restore friendly relations between
-- **B and E** = Breaking and Entering, to the enter property you don’t own with force
+- **to reconcile** = to restore friendly relations
+- **B and E** = Breaking and Entering, to enter property you don’t own with force
 - **to strike out** = to try to do something multiple times with failure
 - **to get all mushy on someone** = to be too sensitive towards someone
 - **to be let go** = to be fired
