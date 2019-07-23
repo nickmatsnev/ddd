@@ -1,7 +1,7 @@
 ---
 title: "Mr. Robot: Season 1"
 date: 2018-05-20
-lastmod: 2019-07-08
+lastmod: 2019-07-23
 tags: [Learn English]
 featured_image: mr_robot_folder.png
 summary: I am into learning English and, thanks to modern technologies, we have a lot of ways to do it. One of them is to watch films and serials, where the actors’ mother tongue is English.
@@ -568,7 +568,7 @@ Elliot monologue about debugging in hospital.
 
 ### A wingman
 
-Means a guy you bring along with you on singles outings (like to bar) that helps you out with the women. The wingman will always be there to “occupy” the least attractive girl of the pair so that you may engage in the “hotty”—UrbanDictionary.
+Means a guy you bring along with you on singles outings (like to bar) that helps you out with the women. The wingman will always be there to “occupy” the least attractive girl of the pair so that you may engage in the “hotty”, according to [UrbanDictionary](//www.urbandictionary.com/define.php?term=Wingman).
 
 > Oh, that’s nice.  
 > I think she likes you, bud.  
@@ -581,7 +581,7 @@ Mr. Robot in the AllSafe office.
 
 Means dishonestly persuading someone to act in one’s favor by a gift of money or something else. Equals to verb **pay off**. **Bribed** means someone who has been paid off.
 
-> Biosynthesized in some lab in Mexico, packed into a pill, shipped to the States where it was packaged with a logo and taxed by the government, stolen by a **bribed** guard, sold to a Vera [henchman](#a-henchman), oversold to Shayla, and then to me.
+> Biosynthesized in some lab in Mexico, packed into a pill, shipped to the States where it was packaged with a logo and taxed by the government, stolen by a **bribed** guard, sold to a Vera henchman, oversold to Shayla, and then to me.
 
 Elliot about his last line.
 
