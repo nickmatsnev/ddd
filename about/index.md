@@ -30,7 +30,7 @@ Hugo, Git, Gulp, Markdown, ...
 
 ## Achievements
 
-here come the certificated
+here come the certificates
 
 ## What I'm doing now
 
