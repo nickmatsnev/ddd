@@ -1,7 +1,6 @@
 ---
 title: "Mr. Robot: Season 2"
 date: 2018-05-21
-lastmod: 2019-07-08
 tags: [Learn English]
 featured_image: mr_robot.png
 summary: This season brought us a more twisted plot, perfectly directed and filmed. We meet new characters, deal with a bunch of storylines.

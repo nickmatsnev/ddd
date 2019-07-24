@@ -1,7 +1,6 @@
 ---
 title: Year 2017 into 2018
 date: 2017-12-31
-lastmod: 2019-07-12
 tags: [Life]
 featured_image: santa_claus.png
 summary: This is the first post where I summarize everything that happened to me during the year.

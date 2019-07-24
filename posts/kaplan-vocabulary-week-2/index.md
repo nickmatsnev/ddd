@@ -1,7 +1,6 @@
 ---
 title: Kaplan Vocabulary Week 2
 date: 2018-08-14
-lastmod: 2019-07-08
 tags: [Learn English]
 featured_image: kaplan_logo.png
 summary: The second week has ended and it’s time I posted words and expressions that I picked up from native English speakers.
