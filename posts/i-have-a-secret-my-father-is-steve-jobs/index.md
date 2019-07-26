@@ -1,5 +1,5 @@
 ---
-title: I Have a Secret. My Father Is Steve Jobs
+title: "\"I Have a Secret. My Father Is Steve Jobs\""
 date: 2018-08-22
 lastmod: 2019-07-08
 tags: [Learn English]

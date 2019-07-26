@@ -1,5 +1,5 @@
 ---
-title: Kaplan Vocabulary Week 2
+title: "Kaplan Vocabulary: Week 2"
 date: 2018-08-14
 lastmod: 2019-07-08
 tags: [Learn English]

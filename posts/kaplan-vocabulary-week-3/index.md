@@ -1,5 +1,5 @@
 ---
-title: Kaplan Vocabulary Week 3
+title: "Kaplan Vocabulary: Week 3"
 date: 2018-08-17
 lastmod: 2019-07-08
 tags: [Learn English]
