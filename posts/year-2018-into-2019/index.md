@@ -9,7 +9,7 @@ summary: 2018 is at its end, and now I want to list all the important things tha
 
 2018 is at its end, and now I want to mention all the important things that happened in the past year. I wrote a [similar post](/posts/year-2017-into-2018/) in 2017, and I want to continue this tradition.
 
-## I read <span style="color: var(--main_accent);">23</span> books
+## I read 23 books
 
 - “S.N.U.F.F.”, Victor Pelevin
 - “The Plague”, Albert Camus
