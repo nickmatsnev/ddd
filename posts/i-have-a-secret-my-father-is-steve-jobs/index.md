@@ -1,9 +1,9 @@
 ---
-title: “I Have a Secret. My Father Is Steve Jobs”
+title: "Vanity Fair: “I Have a Secret. My Father Is Steve Jobs”"
 date: 2018-08-22
 lastmod: 2019-07-08
 tags: [Learn English]
-featured_image: lisa.png
+featured_image: apple.png
 summary: Here I’d like to share the words and expressions I’ve found out reading the article about Steve Jobs’ daughter Lisa.
 ---
 
