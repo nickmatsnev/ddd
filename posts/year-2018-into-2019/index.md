@@ -1,5 +1,5 @@
 ---
-title: "Year 2018 into 2019"
+title: Year 2018 into 2019
 date: 2018-12-31
 lastmod: 2019-07-24
 tags: [Life]

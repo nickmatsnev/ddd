@@ -1,5 +1,5 @@
 ---
-title: "Changelog (v3.0)"
+title: Changelog (v3.0)
 date: 2019-06-26
 tags: [News]
 featured_image: favicon.png
