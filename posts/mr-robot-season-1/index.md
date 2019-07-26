@@ -3,7 +3,7 @@ title: "Mr. Robot: Season 1"
 date: 2018-05-20
 lastmod: 2019-07-23
 tags: [Learn English]
-featured_image: mr_robot_folder.png
+featured_image: mr_robot_folder1.png
 summary: I am into learning English and, thanks to modern technologies, we have a lot of ways to do it. One of them is to watch films and serials, where the actors’ mother tongue is English.
 ---
 
