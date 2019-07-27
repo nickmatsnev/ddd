@@ -71,6 +71,6 @@ New York is also famous for its yellow taxis, that are everywhere.
 
 Polaroid photos.
 
-{{< image class="zoom-in full-size" src="photos/janenovik.png" alt="Polaroid photos of Jane Novik (@zhnovik)." caption="Polaroid photos of Jane Novik (@zhnovik)." >}}
+{{< image class="zoom-in" src="photos/janenovik.png" alt="Polaroid photos of Jane Novik (@zhnovik)." caption="Polaroid photos of Jane Novik (@zhnovik)." >}}
 
 If you want, you can [download](nyc_photos.7z) photos from this post in high quality.
