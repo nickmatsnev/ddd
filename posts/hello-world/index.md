@@ -9,7 +9,7 @@ summary: This post is the initial point from where this website begins. I have c
 
 This post is the initial point from where this website begins. I have completely reinvented my personal website. The previous one wasn’t ideal, so I made up my mind to relaunch it with a new design. I got rid of everything I thought was complicated or useless.
 
-{{< image src="kottsovcom_performance_check.png" class="zoom-in" caption="Performance check from Pingdom." alt="Performance check of this site from Pingdom tools." >}}
+{{< image src="kottsovcom_performance_check.jpg" class="zoom-in" caption="Performance check from Pingdom." alt="Performance check of this site from Pingdom tools." >}}
 
 ## Changelog
 
